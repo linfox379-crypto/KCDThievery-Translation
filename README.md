@@ -1,0 +1,2 @@
+# KCDThievery-Translation
+KCDThievery-Translation
