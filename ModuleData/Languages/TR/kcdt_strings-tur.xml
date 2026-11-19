@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="=kcdt_00ccdc88" text="{0}..." />
+    <string id="=kcdt_00f3bd71" text="Are you making an offer or not?" />
+    <string id="=kcdt_0137890a" text="Numpad 0" />
+    <string id="=kcdt_0145b7c3" text="Persuasion base chance" />
+    <string id="=kcdt_015d9aa8" text=" (He seems to soften a little)" />
+    <string id="=kcdt_0215eeeb" text="Smart choice. I'll be reporting this to the authorities." />
+    <string id="=kcdt_028a910f" text="On by default. AnimusForge's \" />
+    <string id="=kcdt_02ebfccf" text="Feel / Take / Leave" />
+    <string id="=kcdt_031ecf21" text=" The fine just went up to {0} denars." />
+    <string id="=kcdt_0370df29" text="you still pay the agreed {0} denars, " />
+    <string id="=kcdt_0378e15b" text="Offer" />
+    <string id="=kcdt_03fdd70b" text="Merchant recognition chance" />
+    <string id="=kcdt_04d4c7a1" text="Left Stick Left" />
+    <string id="=kcdt_04da4313" text="{0}…" />
+    <string id="=kcdt_04de05a0" text="Left Stick Up" />
+    <string id="=kcdt_0528c523" text="Sell to the merchant" />
+    <string id="=kcdt_052f0ff6" text="Wheel time = seconds gathered × multiplier. Multiplier = base + Roguery/75 × bonus per 75 levels. Default 1.00 (same as before at Roguery 0). If \" />
+    <string id="=kcdt_054ce175" text="When caught in your own fief, loyalty drops by this offense's Crime Rating × this value. Default 0.10." />
+    <string id="=kcdt_058684a9" text="[Stealth] {0} items of equipment went into the stolen goods bag (Roguery XP +{1})." />
+    <string id="=kcdt_05a45a04" text="[Confrontation] Enter an amount (enter 0 if you won't pay a coin), for example: 200 it was a moment of weakness. To talk without making an offer, use \" />
+    <string id="=kcdt_05c259a6" text="Slip him some coin to look away ({0} denars)" />
+    <string id="=kcdt_05ca8d8b" text="Hide goods base chance" />
+    <string id="=kcdt_062a7b64" text="searching someone lying unconscious" />
+    <string id="=kcdt_06515bed" text="Left Ctrl" />
+    <string id="=kcdt_06a12ad6" text="what you say when you don't believe them" />
+    <string id="=kcdt_06c57e4f" text="Hold on an awake target to build up pickpocket time; use the separate binding below to search unconscious bodies. Hold actions need a key that can be held down; the mouse wheel and View / Back tap won't work. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_06e31270" text="Noise {0} · Conspicuousness {1}" />
+    <string id="=kcdt_06ec9222" text="handed over {0} items of dubious origin, which were confiscated, and was let through" />
+    <string id="=kcdt_07231756" text="On by default. While the knockout bar fills, the target gradually notices you just like pickpocketing (the gem turning red means failure), and passersby can notice you too; while the search wheel is open, passersby can notice you (the unconscious person can't). Being noticed has the same consequences as getting caught pickpocketing: Crime Rating goes up and they shout \" />
+    <string id="=kcdt_075499ac" text="{0} denars" />
+    <string id="=kcdt_079a73cc" text="a local" />
+    <string id="=kcdt_07c67141" text="The guard is done listening to your excuses." />
+    <string id="=kcdt_07e20457" text="Nothing has been laundered yet." />
+    <string id="=kcdt_07ed5b42" text="Lay Low required level" />
+    <string id="=kcdt_07ff251c" text="Numpad ." />
+    <string id="=kcdt_081f700d" text="On by default. Each batch of stolen goods remembers which settlement it came from. When selling to a merchant: normal recognition chance in the town it came from, halved in other towns of the same faction, none in other factions' towns. Goods from saves before 0.8.15.24 have unknown origin and count as halved. Turn off to go back to the normal chance everywhere." />
+    <string id="=kcdt_082538f3" text=" and others, {0} in total" />
+    <string id="=kcdt_08bd0f87" text="{0}{1}\nFor the origin and laundering time of each item, choose \" />
+    <string id="=kcdt_08c22864" text="standing over an unconscious body" />
+    <string id="=kcdt_08fabfbd" text="{0} refused to pay up and ran off on the spot; the authorities of {1} are looking for them." />
+    <string id="=kcdt_091bf8da" text="When off, the left stick no longer selects pockets directly; only the left/right bindings or the mouse (if enabled) select. Other gamepad buttons can still be set individually above." />
+    <string id="=kcdt_0940a199" text="{0} was just caught {2} in {1}, seen red-handed by {3}." />
+    <string id="=kcdt_09830a9c" text="[Confrontation] {0}" />
+    <string id="=kcdt_099e45e3" text="Move all laundered goods into your inventory ({0} items)" />
+    <string id="=kcdt_09ab0354" text="The fine is multiplied by this when their patience runs out. Default 1.10." />
+    <string id="=kcdt_09c21c74" text="{0}The fine is {1} denars. They will only pay {2} denars, and this is what they said: \" />
+    <string id="=kcdt_0a5740a1" text=" denars" />
+    <string id="=kcdt_0af04dbd" text="Then stop wasting my time." />
+    <string id="=kcdt_0b7ce421" text="Things you and your fellows have heard of or been through:\n{0}" />
+    <string id="=kcdt_0c1d5d15" text="Things have cooled down: {0} items in the stolen goods bag are now laundered and can go into your inventory." />
+    <string id="=kcdt_0c4fe703" text="{0}\nWritten to: {1} ({2} memory)\n\n{3}" />
+    <string id="=kcdt_0c9ecaed" text="Bribe the jailer ({0} denars; he may just keep it)" />
+    <string id="=kcdt_0ca9b0e2" text="You: {0}" />
+    <string id="=kcdt_0ce53b4a" text="D-Pad Up" />
+    <string id="=kcdt_0dbe2ab3" text="{0}! \" />
+    <string id="=kcdt_0dce1367" text="On by default. The person who caught you, the confronter and passersby more than half aware of you (up to 5 people) remember it immediately; it is cleared when you leave the scene. Guards count too." />
+    <string id="=kcdt_0e51eb26" text="When fencing through the town's gang leader, you get this fraction of the item value, with no consequences. Default 0.40." />
+    <string id="=kcdt_0e8e70a0" text="Deduction / merchant recognition multiplier" />
+    <string id="=kcdt_0e9a062d" text="Right Stick Up" />
+    <string id="=kcdt_0e9b0e91" text="Cheats/{=kcdt_63692bb2}Wheel Time" />
+    <string id="=kcdt_0efb5ca0" text="Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_0fd56bf5" text="You pry the bars apart and slip out of town under cover of night. (Crime Rating +15; you'll be stopped next time you come here)" />
+    <string id="=kcdt_0fde6061" text="Wanted and pursued after fleeing" />
+    <string id="=kcdt_103986da" text="Reasoning failure line (persuasion)" />
+    <string id="=kcdt_104c9c2a" text="Right Shift" />
+    <string id="=kcdt_105830c5" text="(He frowns, still thinking how to answer you...)" />
+    <string id="=kcdt_10e0cc25" text="Search Unconscious Target" />
+    <string id="=kcdt_119f2347" text="Press {0}{1}" />
+    <string id="=kcdt_11f6589a" text="Write to hero long-term memory" />
+    <string id="=kcdt_128687a9" text=" (He has completely lost patience and won't listen anymore: {0}{1})" />
+    <string id="=kcdt_12c19258" text="Maximum distance for calling nearby guards after a body is discovered." />
+    <string id="=kcdt_12c2e7b6" text="Numpad -" />
+    <string id="=kcdt_12ec5467" text="(Confess) ...It was me." />
+    <string id="=kcdt_1305a561" text="AI judge max bonus" />
+    <string id="=kcdt_13ce5644" text="Slip Away bonus per 10 levels" />
+    <string id="=kcdt_13f4c181" text="Slip Away required level" />
+    <string id="=kcdt_14061fb1" text="Nobody comes to stop you, but word is already spreading (Crime Rating +{0})." />
+    <string id="=kcdt_1495ae9c" text="Since 0.8.15.40, with AnimusForge, \" />
+    <string id="=kcdt_15227b09" text="On by default. After clothing (helmet, cape, body, gloves, legs) taken from an unconscious target goes into the stolen goods bag, only that target's clothing and skin meshes are rebuilt so the taken items vanish at once; weapons and the unconscious/dead state are untouched. Turn this off if you see display glitches; you still get the items, only the appearance stays the same." />
+    <string id="=kcdt_154a9982" text="Knockout (hold)" />
+    <string id="=kcdt_15715542" text="[Slip Away] {0}{1}They are suspicious now. Leave them alone for the rest of this scene." />
+    <string id="=kcdt_158d67e2" text="Counteroffer chance" />
+    <string id="=kcdt_15cf85d4" text="Your crimes won't push loyalty below this, so you can't steal a town into rebellion. Default 25." />
+    <string id="=kcdt_15ddfc80" text="Knockouts are turned off in MCM." />
+    <string id="=kcdt_15def863" text="Struggle reaction window (seconds)" />
+    <string id="=kcdt_163fcffe" text="[Jail] {0}" />
+    <string id="=kcdt_1641ffb8" text="less than 1 day" />
+    <string id="=kcdt_169c2caf" text="[Thievery] You stole from {0}: {1} (Roguery XP +{2})" />
+    <string id="=kcdt_16ae5cbd" text="(Flee) You want me? Catch me first!" />
+    <string id="=kcdt_16cbf575" text="what you say when you accept {0} denars as the fine (make clear you let them go only after taking this money; never say you'll drop it, waive it or let it slide)" />
+    <string id="=kcdt_16cfab7d" text="The stolen goods bag is unavailable; no equipment was taken." />
+    <string id="=kcdt_16e71fee" text="(Persuade, about {0}% chance) You've got it wrong, I was only..." />
+    <string id="=kcdt_173e7d15" text=" (He won't take that price{0}; he'll still talk {1} more times)" />
+    <string id="=kcdt_174744f9" text="On by default. Once Roguery reaches the required level, purses hold more money when you pickpocket (the wheel shows the boosted amount). Does not affect searching unconscious bodies." />
+    <string id="=kcdt_1774f38d" text="[Thievery] {0} recognized you as the lord here and can only glare at you." />
+    <string id="=kcdt_17d910c9" text="Close" />
+    <string id="=kcdt_185406e7" text="Move the mouse or " />
+    <string id="=kcdt_186580db" text="On by default. When you're caught, the person who caught you shouts a short AI-written line, shown at the bottom left of the screen. Nothing is shouted on timeout or failure. Uses API credits." />
+    <string id="=kcdt_18831d80" text="When on, the left mouse button also confirms wheel pockets; when off, only the confirm binding above works. If left mouse is bound to wheel left/right or cancel, that binding takes priority." />
+    <string id="=kcdt_1a201c4a" text="Slip Away: a chance to bluff it out when caught" />
+    <string id="=kcdt_1a49da34" text="talked their way out of it with no punishment" />
+    <string id="=kcdt_1a5d8917" text="Nothing here" />
+    <string id="=kcdt_1aae3164" text="You are {1} of {0}{2}. {3} Say one accusing opening line to them (under 25 words) and end by demanding they explain themselves." />
+    <string id="=kcdt_1b026783" text="The jailer pockets the money and walks off. Your {0} denars are gone." />
+    <string id="=kcdt_1b100c4b" text=" (Crime Rating +{0})" />
+    <string id="=kcdt_1b4f2443" text="trying to steal your purse" />
+    <string id="=kcdt_1b8b884e" text="Exit" />
+    <string id="=kcdt_1b8ce315" text="The last native knockout check failed, so knockouts are disabled for this scene. See diagnostic.log for details." />
+    <string id="=kcdt_1ba4544e" text=" (search equipment)" />
+    <string id="=kcdt_1bea06cb" text="served the full sentence in jail" />
+    <string id="=kcdt_1c1713ba" text="Loyalty lost to deductions and merchant recognition is multiplied by this. Default 0.50." />
+    <string id="=kcdt_1c7cc415" text="The target's equipment display is no longer valid; transfer stopped. {0}" />
+    <string id="=kcdt_1cb8f66b" text="knocking out" />
+    <string id="=kcdt_1cfbd71f" text="The native knockout state failed verification; further knockouts are disabled in this scene. Do not overwrite your pre-test save." />
+    <string id="=kcdt_1d098602" text="On by default. Pickpocketing from behind takes the back pouch: less money and sundries, no weapons, normal detection. From the side or front you get the front pouch: money ×2, one more valuable item, weapons only in the front pouch, but detection ×1.5. Turn off to restore the old pockets." />
+    <string id="=kcdt_1d1a5584" text="(He folds his arms and waits for you to speak)" />
+    <string id="=kcdt_1d242927" text="(Go to jail willingly, about {0} days; your record is wiped once you serve it) I'll come with you." />
+    <string id="=kcdt_1d682acc" text="Write crime events to NPC memory (AFEF)" />
+    <string id="=kcdt_1df8c56d" text=", he'll still talk {0} more times" />
+    <string id="=kcdt_1e84d06e" text=". You can add a reason after a space, for example:\n200 I have an old mother to feed" />
+    <string id="=kcdt_1e89be00" text=" ({0})" />
+    <string id="=kcdt_1eb6aff9" text="; " />
+    <string id="=kcdt_1eb98f15" text="confessed and was sentenced to jail" />
+    <string id="=kcdt_1f14fc5d" text="Hmph." />
+    <string id="=kcdt_1f3ef73d" text="somewhere" />
+    <string id="=kcdt_1fbc8fa5" text="turned themselves in at the gate and was punished on the spot" />
+    <string id="=kcdt_1feb7e09" text="…{0}" />
+    <string id="=kcdt_202324b9" text="The target's state changed; knockout cancelled." />
+    <string id="=kcdt_2027026c" text="Hold actions need a key that can be held down; the mouse wheel and View / Back tap won't work." />
+    <string id="=kcdt_203346bd" text="Struggle! Press {0} now to hold him down! ({1} s)" />
+    <string id="=kcdt_208f6a67" text="Right Stick Down" />
+    <string id="=kcdt_2095074e" text="There's nothing in the bag to pick." />
+    <string id="=kcdt_20f1067c" text="Someone saw you dipping into another man's purse." />
+    <string id="=kcdt_214b77bd" text=", " />
+    <string id="=kcdt_223975d8" text="Gate search bribe ratio" />
+    <string id="=kcdt_22beb526" text="{0} was just seen {2} in {1}, but everyone recognized them as the lord here and nobody dared say a word." />
+    <string id="=kcdt_22f609a5" text="{0} (Knockout)" />
+    <string id="=kcdt_233be184" text="{0} s over!" />
+    <string id="=kcdt_2361adb6" text="L3 (press left stick)" />
+    <string id="=kcdt_23c84ba5" text="target unavailable" />
+    <string id="=kcdt_23e954b2" text="When the target struggles during a knockout and \" />
+    <string id="=kcdt_245fdf13" text="picking pockets" />
+    <string id="=kcdt_249b8944" text="Origin: {0}\nStolen: {1}\nUnit price about {2} denars{3}\nSelling here: {4}" />
+    <string id="=kcdt_24affb31" text=", and raised the fine to {0} denars" />
+    <string id="=kcdt_24e81160" text="I'll pay the fine. Let's leave it at that." />
+    <string id="=kcdt_2582e45a" text="won't be recognized" />
+    <string id="=kcdt_2608855f" text=" ×{0}" />
+    <string id="=kcdt_26b09bab" text="Past conversations between you and them, and what you remember:\n{0}" />
+    <string id="=kcdt_26f92e3e" text="the change to the stolen goods bag could not be confirmed" />
+    <string id="=kcdt_279bfa37" text="{0}. {1}" />
+    <string id="=kcdt_27a1d695" text="native appearance rebuild failed" />
+    <string id="=kcdt_27c6a3f2" text=" (selling here: half the chance of being recognized)" />
+    <string id="=kcdt_280c75ff" text="Say" />
+    <string id="=kcdt_2871dc56" text="Maximum distance between you and the target for a knockout. Default 2.2 m; too small and character collision can stop you selecting a target even when right behind them." />
+    <string id="=kcdt_28829b22" text="You judge and write lines for a medieval NPC in Mount &amp; Blade II: Bannerlord. Fully become this NPC: judge by their personality, station, relationship with the player and what they remember. Output exactly one line in the format: score|{A}|{B}. The score is an integer from -3 to 3 showing how persuasive the player's words are to this NPC. Check them against the \" />
+    <string id="=kcdt_29839704" text="{0} was thrown into the jail of {1} for theft, sentenced to {2} days." />
+    <string id="=kcdt_29bfa82e" text="On by default. When a pickpocket, knockout or search fails or an unconscious body is found, the person who caught you (replaced by a guard within 25 m if they are a commoner) comes to talk: pay a fine, persuade, confess or flee. Crime Rating is settled by the outcome. Turn off to go back to simply adding Crime Rating." />
+    <string id="=kcdt_2a589270" text="(Refuse) I can't afford that." />
+    <string id="=kcdt_2a6e137b" text=", " />
+    <string id="=kcdt_2a99858b" text="They paid the fine; you take the money and let them go" />
+    <string id="=kcdt_2a9cfb6b" text="You have nothing left on you. " />
+    <string id="=kcdt_2abd56b8" text="Numpad +" />
+    <string id="=kcdt_2b9f18de" text="Roguery level that unlocks Nimble Fingers. Default 75." />
+    <string id="=kcdt_2bb69181" text="Fine = this offense's Crime Rating × this number. Default 15: robbing a commoner (Crime Rating 10) costs 150, a noble (30) costs 450. A failed persuasion multiplies the fine by 1.5." />
+    <string id="=kcdt_2bddefba" text="Total wheel time (seconds)" />
+    <string id="=kcdt_2c0a2111" text="[Stealth] {0} saw both the body and you, and is attacking and calling for nearby guards!" />
+    <string id="=kcdt_2c26e14d" text="Pickpocket (hold)" />
+    <string id="=kcdt_2c71e3d8" text="(Reason with him · persuasion {0}; at {1} he lets you go, at {2} talks break down · {3}) Just hear me out..." />
+    <string id="=kcdt_2c89c21d" text="Extra left-mouse confirm" />
+    <string id="=kcdt_2c941da4" text="Off by default. When on, guard and soldier troop types also remember your record long-term; chatting with any guard of that type through AF may bring up old crimes, and if the AI answers with a warning it can turn into a fight (with AF adding Crime Rating again). Test it before turning it on." />
+    <string id="=kcdt_2cdba338" text="{0}: \" />
+    <string id="=kcdt_2ce25e4d" text="Roguery level that unlocks Lay Low. Default 250." />
+    <string id="=kcdt_2d0518bf" text="(He takes {0}) " />
+    <string id="=kcdt_2d19b8b0" text="(Pay the fine, {0} denars. If you can't pay, you go to jail) " />
+    <string id="=kcdt_2d3b055c" text="(not set)" />
+    <string id="=kcdt_2d4cf273" text="The target or stolen goods bag is unavailable; nothing was settled." />
+    <string id="=kcdt_2d7f40f6" text="Refuse the search and turn back (Crime Rating +10, alert level +1)" />
+    <string id="=kcdt_2d8bca43" text="\nYour background: {0}" />
+    <string id="=kcdt_2d955401" text="{0}paid a {1} denar fine and the matter was settled on the spot" />
+    <string id="=kcdt_2decafad" text="I have some goods of... unusual origin. I'm looking for somewhere to sell them." />
+    <string id="=kcdt_2ecba22b" text="Suit yourself. The original amount stands." />
+    <string id="=kcdt_2f02443f" text="The AI is judging your words and writing his reply. At most {0} more seconds.\n\nPress Esc or click \" />
+    <string id="=kcdt_2fbb6a31" text="[Stealth] {0} found the body, and you!" />
+    <string id="=kcdt_2fc718c2" text="Lowball threshold" />
+    <string id="=kcdt_2ffde75c" text="he's still angry" />
+    <string id="=kcdt_30395495" text="You saw {0} {1} with your own eyes and stopped them on the spot." />
+    <string id="=kcdt_306db081" text="Purse ({0} denars)" />
+    <string id="=kcdt_30ccbb1a" text="⚠ {0} {1} is watching you {2}%" />
+    <string id="=kcdt_31be548f" text="{0} is closing in on you; search interrupted." />
+    <string id="=kcdt_3210004d" text="Their crime rating with the local faction is {0} (30+ means a criminal record, 65+ a serious offender); this town's alert level is {1}/5.{2}" />
+    <string id="=kcdt_32ac2e92" text="Space" />
+    <string id="=kcdt_32c8733d" text="knocking someone out from behind" />
+    <string id="=kcdt_32fafb41" text="Lets you hold the takedown key on eligible ordinary targets to subdue them. Heroes and quest characters are always protected; there is no setting to bypass that." />
+    <string id="=kcdt_3312f74d" text="Fat Purse: steal more money" />
+    <string id="=kcdt_332bb1e1" text="Convince the guard he has the wrong person (about {0}%)" />
+    <string id="=kcdt_33502bc0" text="sitting" />
+    <string id="=kcdt_336365e0" text="Open" />
+    <string id="=kcdt_3428b276" text="Up Arrow" />
+    <string id="=kcdt_347ee2b0" text="This jailer already pocketed your money once. He won't trust you again." />
+    <string id="=kcdt_3489e414" text="[Thievery] You pulled your hand back empty. {0} noticed nothing." />
+    <string id="=kcdt_34c2df91" text="Pick a batch of stolen goods to sell to a merchant" />
+    <string id="=kcdt_357d97bd" text="Fat Purse required level" />
+    <string id="=kcdt_364bbb40" text="No. That's the amount." />
+    <string id="=kcdt_36516265" text="The equipment is no longer where it was; nothing was taken." />
+    <string id="=kcdt_36bb9d2d" text="Not stolen; won't be recognized when sold" />
+    <string id="=kcdt_36c27179" text="Haggle" />
+    <string id="=kcdt_36c2c1b3" text="Your own goods" />
+    <string id="=kcdt_3761013f" text="Roguery level that unlocks Fat Purse. Default 150." />
+    <string id="=kcdt_378212eb" text="The weakness from your time in jail has passed." />
+    <string id="=kcdt_379d8d6d" text="[Search] {0}" />
+    <string id="=kcdt_37e1ea30" text="Merchant price ratio for stolen goods" />
+    <string id="=kcdt_3830d917" text="Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_38cf375c" text="On by default. If you carry anything counted as stolen goods (unlaundered equipment; goods and sundries only if stolen in this town, the same faction or of unknown origin), you may be searched at the gate when entering a town or castle: 10% + alert level × 5% + 5% per 2000 denars of stolen goods, +15% more if stolen in this town, capped by the gate search chance cap under \" />
+    <string id="=kcdt_38f13536" text="the game has already recycled the target's model" />
+    <string id="=kcdt_392b295c" text="Loyalty lost per Crime Rating point" />
+    <string id="=kcdt_39b0c0a9" text="[Punishment] {0}" />
+    <string id="=kcdt_3a4b5f45" text="You offered a middle price, they refused, and you say the original amount stands then" />
+    <string id="=kcdt_3a4d56bb" text="When off, only the person you rob can notice you; passersby and guards look the other way (for testing)." />
+    <string id="=kcdt_3a9dabe3" text="All right, maybe I was mistaken." />
+    <string id="=kcdt_3b0b4c40" text="{0} (the fine was {1} denars). Your decision has already been made from your attitude toward them; your reply must reflect it and cannot change it: " />
+    <string id="=kcdt_3b1840f9" text="D-Pad Down" />
+    <string id="=kcdt_3b3b7589" text="Their name is {0}" />
+    <string id="=kcdt_3b7fae8f" text="{0} pried open the bars of {1} and escaped; the locals have put out a warrant." />
+    <string id="=kcdt_3b984bf9" text="Lay Low required level" />
+    <string id="=kcdt_3bc752dd" text="On by default. When haggling you can add a reason after the price; when persuading you write a line in your defense first. AnimusForge's auxiliary model scores what you said, shifting the chance by up to \" />
+    <string id="=kcdt_3bc76259" text="Enable confrontation when caught" />
+    <string id="=kcdt_3c2b1f70" text="talking" />
+    <string id="=kcdt_3c38f01f" text="Someone saw {0} {2} in {1}, and you went over and stopped them." />
+    <string id="=kcdt_3d325077" text="refused to come quietly, ran off on the spot, and now has a record here" />
+    <string id="=kcdt_3d5666e9" text="Search: {0}" />
+    <string id="=kcdt_3d87dde4" text=" · {0}" />
+    <string id="=kcdt_3df5833d" text="AI writes the other side's replies" />
+    <string id="=kcdt_3e06e232" text="\nOrigins of stolen goods:\n{0}" />
+    <string id="=kcdt_3e35f319" text=" whips around; you pretend you were just passing by. " />
+    <string id="=kcdt_3e914ab0" text="Leave through the door and take the selected equipment" />
+    <string id="=kcdt_3e9249d7" text="Extended (extended key, depends on keyboard layout)" />
+    <string id="=kcdt_3eba147a" text="You confess. This will be reported to the authorities{0}." />
+    <string id="=kcdt_3ed3043e" text="Say it" />
+    <string id="=kcdt_3ed4a89d" text="front pouch (more valuable, easier to notice)" />
+    <string id="=kcdt_3ef2ea20" text="Extra money in purses. Default 0.25 = +25%." />
+    <string id="=kcdt_3f21708e" text="You already tried today. Wait until the guards relax." />
+    <string id="=kcdt_3f556617" text="{0}{1} choose a pocket · {2} feel and take · return to the door at the top to leave" />
+    <string id="=kcdt_4043be44" text="Multiplier added per 75 Roguery" />
+    <string id="=kcdt_406fded2" text="View the stolen goods list (origin, time left to launder)" />
+    <string id="=kcdt_41287896" text="Press {0} to feel it (-{1} s)" />
+    <string id="=kcdt_416dff73" text="Hold {0}; letting go or leaving his back cancels · when the gem turns red you've been noticed{1}" />
+    <string id="=kcdt_41be3217" text="Enable settlement alert level" />
+    <string id="=kcdt_421f0adc" text=" (He raised the fine to {0} denars instead{1})" />
+    <string id="=kcdt_426d2ec2" text="the jail" />
+    <string id="=kcdt_42788eb7" text="[Alert] The alert level in {0} has risen to {1}. People here are more watchful now." />
+    <string id="=kcdt_43131d1f" text="Your personality: {0}{1}" />
+    <string id="=kcdt_442dfe95" text="Hmph. At least you have some conscience." />
+    <string id="=kcdt_44d1daf8" text="{0} laundered items were moved into your inventory." />
+    <string id="=kcdt_455d72f7" text="Numpad 3" />
+    <string id="=kcdt_457e62c6" text="Noble" />
+    <string id="=kcdt_45882e67" text="Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once." />
+    <string id="=kcdt_45cb6705" text="Player: (hands back everything stolen: {0})" />
+    <string id="=kcdt_4603e9fb" text="Maximum days after adding value days (the perk multiplier applies afterwards). If lower than the base days, the base days win. Default 30." />
+    <string id="=kcdt_4604fa5f" text="I'll pay you back. Let's call it even." />
+    <string id="=kcdt_461f2b83" text="On by default. Laundering days = \" />
+    <string id="=kcdt_467bf256" text="You refuse the search and the guard won't let you in. (Crime Rating +{0})" />
+    <string id="=kcdt_46d08157" text="You refuse to come quietly and {0} attacks! (Crime Rating +{1}; people here will remember you)" />
+    <string id="=kcdt_47415bdb" text="The jailer counts the coins and quietly unlocks the cell." />
+    <string id="=kcdt_476787f8" text="the pillory" />
+    <string id="=kcdt_476c29aa" text="{0}{1}. {2}; " />
+    <string id="=kcdt_47a7202b" text="On by default. Knocked-out people freeze in a fallen pose and stop acting, but the game doesn't turn them into corpses, so stripped clothing can vanish from the model. Applies only to targets knocked out from now on; they disappear with the scene when you leave. Turn off to restore the original native unconscious state (clothing appearance won't update)." />
+    <string id="=kcdt_47a8f147" text="#{0}: caught {1}, then {2}" />
+    <string id="=kcdt_47b04c59" text="The guard rummages through your baggage and finds nothing. (Roguery XP +{0})" />
+    <string id="=kcdt_4811845b" text="Reasoning success line (persuasion)" />
+    <string id="=kcdt_482ca4e1" text="\n\n[Background facts. Use these to judge whether what they say is true]\n{0}" />
+    <string id="=kcdt_48662bf9" text="The shame of the pillory has passed. Merchants will trade with you normally again." />
+    <string id="=kcdt_48ab177e" text="The struggle key is the same as the knockout key, so the struggle is skipped this time. Set them apart in MCM." />
+    <string id="=kcdt_4911ab64" text="The guard gives you a dressing-down, notes your name, and lets you in." />
+    <string id="=kcdt_4918443c" text="AnimusForge Integration" />
+    <string id="=kcdt_492dce49" text="This action needs a key you can hold down. The mouse wheel and tap events can't be used to charge; rebind it in MCM." />
+    <string id="=kcdt_49503956" text="If you have something to say, say it. Stop mumbling." />
+    <string id="=kcdt_49b1b499" text="No equipment to take here" />
+    <string id="=kcdt_49b1def6" text="{0}They argue: \" />
+    <string id="=kcdt_4a1f044a" text="{0} What have you got to say?" />
+    <string id="=kcdt_4a3c15ba" text="{0}, head of the {1} clan (clan tier {2}, renown {3})" />
+    <string id="=kcdt_4a41011d" text="Fine, there's plenty of room in the cells. Let's go." />
+    <string id="=kcdt_4a8943f6" text="The equipment service is unavailable." />
+    <string id="=kcdt_4b1d33b3" text=", he'll hear {0} more offers" />
+    <string id="=kcdt_4b699525" text="they sensed movement behind them" />
+    <string id="=kcdt_4bdf68b9" text="Mouse Button 4" />
+    <string id="=kcdt_4bf22fbf" text="Your hidden goods are found; all {0} items are confiscated. (Crime Rating +{1})" />
+    <string id="=kcdt_4bf34e30" text="AI judge timeout (seconds)" />
+    <string id="=kcdt_4c41c0c3" text="{0} was caught {2} in {1} and stopped on the spot by {3}; in the end {0} {4}." />
+    <string id="=kcdt_4c8cae87" text="[Stealth] {0}" />
+    <string id="=kcdt_4c8e9c15" text="Feel pocket time (seconds)" />
+    <string id="=kcdt_4cbcc3b7" text="Bribe = total value of goods that would be confiscated × this ratio (at least 50 denars). 20% chance the guard takes the money and confiscates anyway. Default 0.30." />
+    <string id="=kcdt_4cd09ef4" text="that person" />
+    <string id="=kcdt_4ceb3d33" text="Unconscious body detection time (seconds)" />
+    <string id="=kcdt_4d231bbb" text="Body discovery range (meters)" />
+    <string id="=kcdt_4d2cc80f" text="For haggling and persuasion only; separate from \" />
+    <string id="=kcdt_4dddf6c5" text="Lets you use the separate search binding to open the search screen on eligible unconscious targets. Heroes and quest characters are always protected." />
+    <string id="=kcdt_4dfa66b5" text="Gate search chance cap" />
+    <string id="=kcdt_4e0f68a2" text="Player: \" />
+    <string id="=kcdt_4eda4d80" text="{0}\n\nThey now say to you: \" />
+    <string id="=kcdt_4ee0dbce" text=" (He looks angrier)" />
+    <string id="=kcdt_4ee4febd" text="...All right, maybe I was mistaken. Go." />
+    <string id="=kcdt_4f257a92" text="Recent major events in this kingdom:\n{0}" />
+    <string id="=kcdt_4f33e497" text="Write crime events to the AF inbox" />
+    <string id="=kcdt_4f88ce60" text="Taken: {0}" />
+    <string id="=kcdt_4febc2c2" text="they have worn your patience and made you angrier; the fine goes up to {0} denars; say this number in your reply." />
+    <string id="=kcdt_502769cd" text="For every this many seconds you hold the pickpocket key, one random \" />
+    <string id="=kcdt_50334f69" text="You think you can buy me off with that?" />
+    <string id="=kcdt_5082d5f6" text="{0}{1}: {2}" />
+    <string id="=kcdt_509b85ae" text="...Enough. I'll pretend I didn't see this. Get out of here, and don't let me catch you again." />
+    <string id="=kcdt_50bce68f" text="{0}{1} denars; say this number in your reply." />
+    <string id="=kcdt_50e0d03f" text="Reasoning moves their attitude between -3 and 3; each level adds or removes this much from haggling and persuasion chances. Default 0.05 (up to ±15%)." />
+    <string id="=kcdt_5138f03d" text="Player: (offers {0} denars) {1}" />
+    <string id="=kcdt_515ca50b" text="Extra laundering days for every 1000 denars of item value. Default 2.0." />
+    <string id="=kcdt_5164fcb7" text="half the chance of being recognized" />
+    <string id="=kcdt_517391c4" text="The guard scratches his head and waves you through." />
+    <string id="=kcdt_518eca7b" text="Commoner" />
+    <string id="=kcdt_51e45531" text="Witnesses know at once (scene memory)" />
+    <string id="=kcdt_51f44b2c" text="{0} \" />
+    <string id="=kcdt_527242bc" text="{0}!" />
+    <string id="=kcdt_5286f230" text="Your relation with them: {0} (-100 sworn enemy, 0 stranger, 100 closest friend)." />
+    <string id="=kcdt_52a0dfec" text="(He is thinking how to answer you)" />
+    <string id="=kcdt_52e56966" text="he'll report this" />
+    <string id="=kcdt_5358762c" text="R3 (press right stick)" />
+    <string id="=kcdt_53755d18" text="Try to escape (about {0}%)" />
+    <string id="=kcdt_53e971f5" text="AI judge uses persona and memory" />
+    <string id="=kcdt_543992e3" text="When selling stolen goods to an ordinary merchant, the price is multiplied by this. 0.30 = 30% of the price." />
+    <string id="=kcdt_546b285c" text=" · when he struggles press {0}" />
+    <string id="=kcdt_54c38e03" text="Keep the character model after a knockout (no corpse)" />
+    <string id="=kcdt_54c6f950" text="{0} selected (committed only when you leave through the door)" />
+    <string id="=kcdt_553fb3c3" text="Left Arrow" />
+    <string id="=kcdt_5541d7e5" text="Stolen goods bag ({0} items)" />
+    <string id="=kcdt_5565e632" text="Nimble Fingers required level" />
+    <string id="=kcdt_556b3e13" text="Guard" />
+    <string id="=kcdt_55ab71f9" text="searching someone lying unconscious" />
+    <string id="=kcdt_564f32ef" text="[Fief] Your lord is the one stealing. Loyalty in {0} -{1} (now {2})." />
+    <string id="=kcdt_564faecf" text="{0} denars" />
+    <string id="=kcdt_56fb4819" text="Right Stick Right" />
+    <string id="=kcdt_57a70d0a" text="On by default. Seated targets notice at ×0.6, targets using a stall, bench or similar ×0.7, targets talking to someone ×0.8; the lowest applies when several match. Walking targets still ×1.35. The pickpocket screen shows the current pouch and target state." />
+    <string id="=kcdt_57b81c6e" text="The guard doesn't believe a word. (Crime Rating +{0})" />
+    <string id="=kcdt_57cb91a3" text=" and " />
+    <string id="=kcdt_5846a447" text="Force your way in (Crime Rating +10; you'll be stopped again next time)" />
+    <string id="=kcdt_58dd1bbf" text="Knockout reach (meters)" />
+    <string id="=kcdt_59311f62" text="You shake off {0} and run. (Crime Rating +{1}; you'll be stopped next time you come here)" />
+    <string id="=kcdt_594021fd" text=", he won't haggle anymore" />
+    <string id="=kcdt_59410f02" text="Numpad *" />
+    <string id="=kcdt_59845e7b" text="Where do you think your hand is going?! Think I'm blind?" />
+    <string id="=kcdt_59aba06f" text="The target moved or turned after leaving its ambient animation; knockout cancelled." />
+    <string id="=kcdt_5a2c32c5" text="The guard pockets the {0} denars and confiscates {1} items anyway: \" />
+    <string id="=kcdt_5ac6f535" text="Player: (defends themselves) \" />
+    <string id="=kcdt_5ae47c9b" text="(He is weighing your words)" />
+    <string id="=kcdt_5b1a1cb7" text="The guard weighs the purse ({0} denars) and pretends he saw nothing." />
+    <string id="=kcdt_5b3ebd06" text="Stolen goods laundering days" />
+    <string id="=kcdt_5b3f91f7" text="They are begging you to lower the fine but named no figure" />
+    <string id="=kcdt_5b43bf59" text=", responsible for keeping the peace" />
+    <string id="=kcdt_5b8a64a7" text="Empty pocket" />
+    <string id="=kcdt_5bb58c3b" text="fall animation act_death_fall_front not found" />
+    <string id="=kcdt_5c208e6d" text=" (The offer was too low and made him angry{0}{1})" />
+    <string id="=kcdt_5c25ca4d" text="Targets struggle during knockouts" />
+    <string id="=kcdt_5cbcd6c0" text="{0} was searched by the guards when entering {1} and {2}." />
+    <string id="=kcdt_5d254084" text="Pick an origin. The inventory will show only goods stolen there; the rest is put away and returned when you close the inventory. The same kind of item from the same origin still stacks in one slot even if stolen on different days; see \" />
+    <string id="=kcdt_5d37d524" text="..." />
+    <string id="=kcdt_5dc202a0" text="Enable after-the-fact deduction" />
+    <string id="=kcdt_5df7cebc" text=" · perks: {0}" />
+    <string id="=kcdt_5e09600b" text="Left stick or " />
+    <string id="=kcdt_5e1dfceb" text="Witness range (meters)" />
+    <string id="=kcdt_5eb4915c" text="Theft and Crime" />
+    <string id="=kcdt_5ee78c5a" text="The knockout patch is not installed correctly, so nothing was done. See error.log / diagnostic.log for details." />
+    <string id="=kcdt_5f22086b" text="Taken · press {0} again to put it back" />
+    <string id="=kcdt_5f311ab4" text="The AI scores what you said from -3 to 3; a full score adds this much to the chance, -3 subtracts this much. Default 0.30 (10% per point)." />
+    <string id="=kcdt_601c292d" text="On by default. Master switch for the three options below. What happened when you were caught, and how it ended, is written into AnimusForge NPC memory as [AFEF] facts, so NPCs know about it when you chat with them through AF later. It only goes into memory; it doesn't make NPCs speak on the spot." />
+    <string id="=kcdt_60352629" text="The guard takes away {0} items of dubious origin and waves you in." />
+    <string id="=kcdt_6069e94c" text="Stop waiting" />
+    <string id="=kcdt_6101e377" text="this person" />
+    <string id="=kcdt_610d9094" text="Right Mouse" />
+    <string id="=kcdt_61bc497e" text="Moves to the next pocket on the wheel. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_61cff0ca" text="Right Arrow" />
+    <string id="=kcdt_61f83bf2" text="You pinned {0} down." />
+    <string id="=kcdt_622d4f47" text="You are out, but the cell has left you sick and weak for 3 days (campaign map speed -15%)." />
+    <string id="=kcdt_6276aef3" text="you refuse, but offer a middle price of " />
+    <string id="=kcdt_634c59bb" text="Applies only to armor, weapons, horses, harness and banners: they must sit this many in-game days before they can move into your inventory. Goods and sundries can move any time. 0 = immediately (for testing)." />
+    <string id="=kcdt_635d813d" text="People can only discover an unconscious body within this range; being in range doesn't guarantee it is visible." />
+    <string id="=kcdt_63db52f0" text="You are {1} of {0}. You just caught someone {2}, but recognized them as the lord here, {3}. You don't dare make a fuss; mutter one line under your breath (under 12 words), angry and afraid." />
+    <string id="=kcdt_64af0a29" text="The cane wounds have scabbed over. You can recover normally again." />
+    <string id="=kcdt_6516898c" text="passerby" />
+    <string id="=kcdt_653115a2" text="Searching equipment · no countdown" />
+    <string id="=kcdt_656fed52" text="Roguery level that unlocks Slip Away. Default 200." />
+    <string id="=kcdt_658fcb8b" text="Let's see them. Pick what you want to sell; I pay {0}% of market price and ask no questions." />
+    <string id="=kcdt_65ae0108" text="you have no patience left for haggling; the fine goes up to {0} denars; say this number in your reply." />
+    <string id="=kcdt_66145db5" text="Knockout cancelled." />
+    <string id="=kcdt_663399ab" text="...Fine. Lucky you." />
+    <string id="=kcdt_66465c72" text="Mouse movement selects on the wheel" />
+    <string id="=kcdt_667fcfa9" text="Write passerby long-term rumors" />
+    <string id="=kcdt_66e38ef7" text=" has been shaken enough for today" />
+    <string id="=kcdt_66f3d713" text="The target left; search cancelled." />
+    <string id="=kcdt_6778ae95" text="Open the stolen goods bag" />
+    <string id="=kcdt_677f290d" text="You take me for a beggar?!" />
+    <string id="=kcdt_6797681f" text="I'll take the money. Just this once. Don't let me see you again." />
+    <string id="=kcdt_67977479" text="(He looks you up and down, waiting for your offer)" />
+    <string id="=kcdt_67f01cb1" text=": " />
+    <string id="=kcdt_68c16961" text="You are locked in {0}. The air is damp and foul.\n\nAbout {1} days left. When you have served your time the authorities will wipe your record, but the days in the cell will leave you weak for a while." />
+    <string id="=kcdt_68e7939c" text="(Hand back what you stole this visit: {0}; the fine is halved) Take it all back. Have mercy." />
+    <string id="=kcdt_68e7c633" text=" it is still open." />
+    <string id="=kcdt_68ea25e0" text=" pats their pocket; you walk off as if nothing happened. " />
+    <string id="=kcdt_695b4e6b" text="Selling here: half the chance of being recognized" />
+    <string id="=kcdt_69cf0f46" text="Lay Low laundering multiplier" />
+    <string id="=kcdt_69d42477" text="The stolen goods bag is empty." />
+    <string id="=kcdt_6a17cb06" text="On by default. If the person you robbed or who stopped you is a hero (lord, notable), it goes into their own long-term memory." />
+    <string id="=kcdt_6a3df688" text="laundered" />
+    <string id="=kcdt_6acaf64a" text="{0}This confrontation could end in the following ways. For each one, write one line you would say: {1}Output exactly one line, {2} lines in order, separated by |." />
+    <string id="=kcdt_6b770e95" text="While feeling around you already figured out {0} pockets." />
+    <string id="=kcdt_6c2c3e16" text="Take item time multiplier" />
+    <string id="=kcdt_6c72c4b0" text="Stolen from {0}" />
+    <string id="=kcdt_6e190393" text="Moves to the previous pocket on the wheel. Left-stick wheel selection is a toggle further down in this group. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_6e37ec0b" text="[{0}] {1}: {2}" />
+    <string id="=kcdt_6e479de3" text="You write medieval-style NPC lines for Mount &amp; Blade II: Bannerlord. Output only the line itself: no quotation marks, no narration, no explanation. Use plain spoken English that fits the character's station." />
+    <string id="=kcdt_6e61250b" text="Auto-reveal pockets while gathering (seconds each)" />
+    <string id="=kcdt_6e8c058a" text="confessed and was punished on the spot, and the matter was settled" />
+    <string id="=kcdt_6e8dbabc" text="After {0} left {1}, the locals tied {2} thefts or assaults together and suspected {3}." />
+    <string id="=kcdt_6fe84dfb" text="the target is no longer valid" />
+    <string id="=kcdt_70215414" text="Cancels the current action or closes screens such as the search wheel. Escape is always an extra cancel key in the main view and is not affected by this setting. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_702acbc2" text="Stealth XP multiplier" />
+    <string id="=kcdt_7055c031" text="On by default. Once Roguery reaches the required level, when the target themselves notices your pickpocket or knockout (gem turns red, wheel time runs out, greed), you roll first: on success they only get suspicious: no confrontation, no Crime Rating, no alert increase, but you can't try them again this scene. Does not apply when a passerby or guard catches you or when you miss a knockout struggle." />
+    <string id="=kcdt_706ab6a7" text="(Never mind, I'll keep quiet)" />
+    <string id="=kcdt_7087488d" text="Persuade" />
+    <string id="=kcdt_70f4143b" text="You are {1} of {0}. You just caught someone {2}. Shout one line to the people around you (under 12 words), full of emotion." />
+    <string id="=kcdt_718daac7" text="Passerby AI shout when caught" />
+    <string id="=kcdt_71a233f1" text="Mouse Button 5" />
+    <string id="=kcdt_720ecc82" text="You confess and are dragged off to jail." />
+    <string id="=kcdt_72aa9a1a" text="You: {0}" />
+    <string id="=kcdt_72af5731" text="Turn around and leave" />
+    <string id="=kcdt_7315f947" text="{0}\n\n(Press Esc to stop waiting)" />
+    <string id="=kcdt_73445910" text=" (Agreed: fine changed to {0} denars)" />
+    <string id="=kcdt_736242e0" text="some equipment is still being transferred" />
+    <string id="=kcdt_7393281d" text="{0} We're done talking. The fine goes up to {1} denars!" />
+    <string id="=kcdt_73a12099" text="Numpad Enter" />
+    <string id="=kcdt_7402a65f" text=" to select this item" />
+    <string id="=kcdt_743e61e7" text="All Roguery XP this mod gives is multiplied by this: pickpocketing, knockouts, searches, fencing through gang leaders. Default 1.50; 1.00 = no bonus, 2.00 = double, 0 = no XP. The game's own learning rate still applies on top." />
+    <string id="=kcdt_7477907b" text="` (~)" />
+    <string id="=kcdt_74813120" text="Max loyalty lost per day" />
+    <string id="=kcdt_7538afb9" text="[Stealth] {0} found the body and you, and shouts: \" />
+    <string id="=kcdt_757bab1a" text="Struggle! Press {0} now to hold him down!" />
+    <string id="=kcdt_757ff3ed" text="You are locked in the pillory and put on display in the square for half a day. For the next 3 days merchants treat you with contempt: you buy for 20% more and sell for 20% less." />
+    <string id="=kcdt_75ea0d9d" text="Eloquence multiplier" />
+    <string id="=kcdt_7653ed7e" text="Don't auto-enter AF's AI mode during confrontations" />
+    <string id="=kcdt_76942ecc" text="The guards pin you down on the spot. Two more days are added to your sentence." />
+    <string id="=kcdt_76cbcb51" text="You confess and are taken away to await sentencing." />
+    <string id="=kcdt_77b75c1d" text="Enable stolen goods origin" />
+    <string id="=kcdt_782d22ca" text="Numpad /" />
+    <string id="=kcdt_7866f1e8" text="You: (convinced, letting them go) {0}" />
+    <string id="=kcdt_7869caa1" text=", already agreed" />
+    <string id="=kcdt_786ac03f" text="Cancelled. Uncommitted equipment stays where it was." />
+    <string id="=kcdt_78aa7910" text="Moves to the next pocket on the wheel." />
+    <string id="=kcdt_78bda0e0" text="On by default. After you give a reason for haggling or persuasion, a waiting box covers the conversation while the AI decides, so you can't click elsewhere; it closes automatically when the AI answers or times out. Press Esc or click \" />
+    <string id="=kcdt_78cda9dc" text="How much the wheel time multiplier grows for every 75 Roguery (scales continuously). Default 0.75: level 0 ×1.00, 75 ×1.75, 150 ×2.50, 300 ×4.00. 0 = skill has no effect." />
+    <string id="=kcdt_78db9490" text="You write medieval-style NPC lines for Mount &amp; Blade II: Bannerlord. Output exactly one line: several lines of speech in the requested order, separated by |, with no numbering, no quotation marks and no narration. Each line is plain spoken English, under 20 words, fits the speaker's station and situation, and contains no specific numbers." />
+    <string id="=kcdt_79046128" text="Save it!" />
+    <string id="=kcdt_7971ad57" text="Press once near an unconscious target to open the search wheel. Can share a button with pickpocket. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_79bb7f44" text="Numpad 8" />
+    <string id="=kcdt_79c05a60" text=" (selling here: won't be recognized)" />
+    <string id="=kcdt_79dd5f51" text="attacking you from behind" />
+    <string id="=kcdt_7a4c2fb6" text="Press {0} to pull out and leave" />
+    <string id="=kcdt_7a929bce" text="You saw {0} {2} in {1} with your own eyes and stopped them on the spot." />
+    <string id="=kcdt_7adf16c9" text="he's seething" />
+    <string id="=kcdt_7bae6d64" text="Hand over the stolen goods (confiscate {0} items, no charges)" />
+    <string id="=kcdt_7c1e43cd" text="Hold {0} to pickpocket: {1}" />
+    <string id="=kcdt_7e4b08e0" text="Hey! " />
+    <string id="=kcdt_7f1457f9" text="The brand on your neck has faded and is less noticeable now." />
+    <string id="=kcdt_7f3466b4" text="[Thievery] Loaded. Author: Playful Fox (v{0})" />
+    <string id="=kcdt_7ffd962d" text="the crouch key from your game settings" />
+    <string id="=kcdt_805243d4" text="Numpad 2" />
+    <string id="=kcdt_80f875a5" text="passerby" />
+    <string id="=kcdt_813b910c" text="{0} to go" />
+    <string id="=kcdt_821a4d5e" text="the target's state changed after sync" />
+    <string id="=kcdt_826ca447" text="{0} searched at the gate of {1}" />
+    <string id="=kcdt_82700277" text="...Finished? So what." />
+    <string id="=kcdt_82cceebe" text="On by default. Confrontation outcomes, jail, release/escape, gate searches, merchant recognition and deductions are written to AnimusForge's inbox as world events. Only you see them; NPCs don't read them. To make NPCs remember, use \" />
+    <string id="=kcdt_8377b2f5" text="knocking someone out" />
+    <string id="=kcdt_83886895" text="Hold this key on an eligible target to knock them out. Heroes and quest characters are always protected; no setting removes that. Hold actions need a key that can be held down; the mouse wheel and View / Back tap won't work. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_83adf7ca" text="knocking people out" />
+    <string id="=kcdt_83af35b3" text="You wait for their offer and they say nothing for a long time" />
+    <string id="=kcdt_845cf6b8" text="refused to be searched and was turned away at the gate" />
+    <string id="=kcdt_851c0fdb" text="tried to bribe their way through; the guard took the money and still confiscated {0} items" />
+    <string id="=kcdt_856279fc" text="the target's model became invalid after sync" />
+    <string id="=kcdt_858c3837" text="Crouch first ({0}) to pickpocket." />
+    <string id="=kcdt_86af5a40" text="Things you and your fellows heard recently (not yet in long-term memory):\n{0}" />
+    <string id="=kcdt_86b20c1b" text="Stolen goods list" />
+    <string id="=kcdt_86cd3148" text="On by default. In a confrontation you can choose \" />
+    <string id="=kcdt_874076d1" text="Middle Mouse" />
+    <string id="=kcdt_87a3258a" text="The target walked away." />
+    <string id="=kcdt_87b6189c" text="There's a man lying over there and you're right next to him. Well? Explain yourself." />
+    <string id="=kcdt_87cd729e" text="Enable gear noise and conspicuousness" />
+    <string id="=kcdt_88051168" text="Wheel Down (cannot be held)" />
+    <string id="=kcdt_8820bac1" text="(Never mind, no more haggling)" />
+    <string id="=kcdt_88578342" text="(He stares at you, waiting for you to speak)" />
+    <string id="=kcdt_88751909" text="this item has been added to the stolen goods bag" />
+    <string id="=kcdt_887d0033" text="Numpad 5" />
+    <string id="=kcdt_889a6416" text="[Stealth] {0} is unconscious (Roguery XP +{1}). Search: {2}." />
+    <string id="=kcdt_88e0f63c" text="They suddenly turn and run; you shout at them and at everyone around" />
+    <string id="=kcdt_89650e0e" text="On by default. At the start of a confrontation the AI writes, in one go and based on their station and what you did, the replies for paying the fine, being unable to pay, confessing, jail, handing back loot, a haggled deal / refusal / giving up / no offer, and your escape. Whichever the conversation reaches is used (the escape line is shouted in the dialog). Fixed lines are used if it isn't finished or fails. One extra AI call per confrontation, using \" />
+    <string id="=kcdt_89f5691b" text="Enable front and back pouches" />
+    <string id="=kcdt_8a5a5628" text="On by default. Once Roguery reaches the required level, laundering days for everything in the stolen goods bag are multiplied by the factor under \" />
+    <string id="=kcdt_8a7219f5" text="Stealth XP multiplier" />
+    <string id="=kcdt_8a80f3ac" text="Pick a batch of goods for the gang leader" />
+    <string id="=kcdt_8ad0d0ac" text="D-Pad Left" />
+    <string id="=kcdt_8b0ca3e6" text="On by default. With AnimusForge installed and \" />
+    <string id="=kcdt_8b404f7b" text="Crime Rating +{0}" />
+    <string id="=kcdt_8b581421" text=" · " />
+    <string id="=kcdt_8ba807d8" text="you give a little and name a price of " />
+    <string id="=kcdt_8bc1a524" text="Witness sensitivity" />
+    <string id="=kcdt_8c1a528e" text="Enter" />
+    <string id="=kcdt_8d8a81cc" text="Slip Away required level" />
+    <string id="=kcdt_8e23c0fa" text="The merchant recognized the goods as stolen, but doesn't dare say anything to his lord." />
+    <string id="=kcdt_8e4743c9" text="Fine multiplier when talks break down" />
+    <string id="=kcdt_8ec010b0" text="(Deal) Fine, that amount it is." />
+    <string id="=kcdt_8ec26f5d" text="The haggling worked out; you agree to take the agreed price" />
+    <string id="=kcdt_8ef767b8" text="{0} was seen {2} in {1}. Nobody stopped them on the spot, but word has spread (Crime Rating +{3})." />
+    <string id="=kcdt_8f1f03e3" text="Your recent dealings with them and what you have heard about them (not yet in long-term memory):\n{0}" />
+    <string id="=kcdt_8f988242" text="On by default; needs \" />
+    <string id="=kcdt_8faae806" text="[Confrontation] {0}" />
+    <string id="=kcdt_8fb96432" text="Right Ctrl" />
+    <string id="=kcdt_8fc0d481" text="Rumor" />
+    <string id="=kcdt_8fd72b04" text="{0} served their sentence in {1} and was released; the record is wiped clean." />
+    <string id="=kcdt_903d556d" text="Enable witnesses" />
+    <string id="=kcdt_9071c499" text="Back" />
+    <string id="=kcdt_90c4d881" text="View / Back tap (cannot be held)" />
+    <string id="=kcdt_911e3855" text="On by default. If what you stole this visit (this scene) is still on you, you can choose \" />
+    <string id="=kcdt_91be2f74" text="Hero" />
+    <string id="=kcdt_9249ad35" text="You can't pay the fine and are dragged off to jail." />
+    <string id="=kcdt_92a34665" text="you refuse this price but leave the door open." />
+    <string id="=kcdt_9334d0d8" text=" items, about " />
+    <string id="=kcdt_93658b23" text=" and " />
+    <string id="=kcdt_93813c69" text="Note" />
+    <string id="=kcdt_93b5d38e" text="{0}: {1} items" />
+    <string id="=kcdt_941f8133" text="what you say when the price is too low and you refuse" />
+    <string id="=kcdt_9447b68b" text="No money? Then you'll pay with your days. Take him away!" />
+    <string id="=kcdt_946bd90f" text="Haggle patience (commoners)" />
+    <string id="=kcdt_95940138" text="Stop! Seize him!" />
+    <string id="=kcdt_95bc4217" text="you won't budge a coin; the original amount stands." />
+    <string id="=kcdt_95c1cd81" text="AI generation timeout (seconds)" />
+    <string id="=kcdt_95caa762" text="You are the victim. You just caught {0} {1}." />
+    <string id="=kcdt_95d1368c" text="You keep everything you stole in an inconspicuous bag, apart from your own baggage.\n\nThe bag holds {0} items worth about {1} denars at market price.\nReady to move into your inventory: {2} items (goods and sundries can be moved any time; armor, weapons, horses, harness and banners must be laundered first).\n" />
+    <string id="=kcdt_9608b931" text="was thrown in jail" />
+    <string id="=kcdt_96ca49e8" text="Choose goods" />
+    <string id="=kcdt_96fb1847" text="What NPCs remember" />
+    <string id="=kcdt_970d80ea" text="Pay the fine ({0} denars)" />
+    <string id="=kcdt_974040ee" text="On by default. Every offense in a place (caught or deduced afterwards) raises its alert level by 1, up to 5, dropping 1 every 3 days. Each level adds +10% detection speed and +5% merchant recognition; from level 3, guard call range +10 m." />
+    <string id="=kcdt_97439e1e" text="Give to the gang leader" />
+    <string id="=kcdt_9788510a" text="The conversation in this confrontation so far (They = the player, You = yourself):\n{0}" />
+    <string id="=kcdt_97be875c" text=" the warrant has been lifted; the case is closed and will not be pursued." />
+    <string id="=kcdt_97f8b98d" text="How close people must be to possibly see you. The closer, the clearer they see." />
+    <string id="=kcdt_980db0ee" text="(He narrows his eyes, still working it out...)" />
+    <string id="=kcdt_986b61c8" text="The target's state changed; pickpocketing cancelled." />
+    <string id="=kcdt_9894c8d9" text="On by default. Once Roguery reaches the required level, the speed at which you build up pickpocket time increases further (multiplied on top of the existing 1 + Roguery/300)." />
+    <string id="=kcdt_99a1730c" text="You pay {0} denars and the guard crosses your name off his list." />
+    <string id="=kcdt_9a020352" text="searching" />
+    <string id="=kcdt_9a0fac65" text="Unknown origin" />
+    <string id="=kcdt_9abe63ee" text="the patrolling {0} caught you in the act" />
+    <string id="=kcdt_9ae36587" text="{0} items" />
+    <string id="=kcdt_9af2150e" text="normal chance of being recognized" />
+    <string id="=kcdt_9af403f6" text="you got greedy and they caught you pulling your hand out" />
+    <string id="=kcdt_9b26d294" text="Down Arrow" />
+    <string id="=kcdt_9b2d5c1a" text="Numpad 4" />
+    <string id="=kcdt_9bf11289" text="Stripped clothing disappears from the model" />
+    <string id="=kcdt_9bf40463" text="Could not clear the agent's spawn equipment slot." />
+    <string id="=kcdt_9c8368ec" text="Fat Purse " />
+    <string id="=kcdt_9c963bd1" text="{0} items in total, sorted by time left to launder (waiting → laundered → goods). Hover over a line to see when it was stolen and the risk of selling it in this town." />
+    <string id="=kcdt_9ce336ae" text="A guard blocks your way: \" />
+    <string id="=kcdt_9d48cc91" text="Longest wait for the AI to write the opening line and the shout. After that the fixed lines are used. Default 3 seconds. Raise it on a slow connection, but the confrontation starts that much later." />
+    <string id="=kcdt_9d8bc328" text=", he'll still talk {0} more times" />
+    <string id="=kcdt_9d9d2c5e" text="Avoid double punishment" />
+    <string id="=kcdt_9db23861" text="An offer below this fraction of the fine is an insult: no roll, patience -2. Default 0.30." />
+    <string id="=kcdt_9e075c6d" text="The base persuasion chance (base + Charm/400 + Roguery/800, ×0.8 against guards, 5%-85%) times this number counts toward persuasion. Default 4: a 70% chance is worth 2.8 points, so higher skills start higher and persuade more easily." />
+    <string id="=kcdt_9e3434b1" text="On by default. While an AnimusForge scene conflict is in progress (it adds Crime Rating itself), this mod adds no extra Crime Rating for the same act and starts no confrontation." />
+    <string id="=kcdt_9e93fa2e" text="the dungeon of {0}" />
+    <string id="=kcdt_9e9b2d0d" text=", " />
+    <string id="=kcdt_9eb12cd0" text="picking pockets" />
+    <string id="=kcdt_9f0fa24d" text="{0} suspected of crimes in {1}" />
+    <string id="=kcdt_9f59262d" text="Never mind, I'll think about it." />
+    <string id="=kcdt_9fb00cae" text="this game version has no native skin generation interface" />
+    <string id="=kcdt_9fcb07d5" text="{0} (Fine changed to {1} denars)" />
+    <string id="=kcdt_9fe2d213" text="Left Alt" />
+    <string id="=kcdt_9ff6a190" text="Enable target states" />
+    <string id="=kcdt_a0319642" text="What do you want to say to him? He answers based on his personality, what he remembers and the conversation so far. No limit on how many times you speak.\nPersuasion now: {0} (attitude {1} + your eloquence {2}). At {3} he lets you go; at {4} talks break down: the Crime Rating sticks, the fine goes up, and no more haggling.\nAdmitting fault, apologizing, offering to make amends and reasons he cares about help; weaseling, lying, bribes and pulling rank usually hurt.\nTo haggle, just name a figure in what you say, e.g. \" />
+    <string id="=kcdt_a085db01" text="Left Shift" />
+    <string id="=kcdt_a0b53f67" text="Cancel" />
+    <string id="=kcdt_a0df257b" text="Wheel time base multiplier" />
+    <string id="=kcdt_a0ebd443" text="(Done talking. See what he says)" />
+    <string id="=kcdt_a0fe4cf4" text="Feel, take or put back the selected pocket; press it on the door to leave. The extra left-mouse confirm is a toggle further down in this group." />
+    <string id="=kcdt_a17e6644" text="The knockout patch is not installed or a previous native check failed. See error.log / diagnostic.log." />
+    <string id="=kcdt_a19998b5" text="The fine is multiplied by this after you hand back what you stole this visit. Default 0.50." />
+    <string id="=kcdt_a1c87217" text="Laundering days cap" />
+    <string id="=kcdt_a1dd33de" text="· " />
+    <string id="=kcdt_a2989c89" text="Enable unconscious body discovery" />
+    <string id="=kcdt_a41b9850" text="AI judge uses world lore and current events" />
+    <string id="=kcdt_a4950273" text="nobody came to confront them, but it was reported to the authorities" />
+    <string id="=kcdt_a52e6494" text=" (they are the ruler themselves)" />
+    <string id="=kcdt_a538e949" text=", responsible for keeping the peace" />
+    <string id="=kcdt_a553a252" text="{0} was recognized selling stolen goods to a merchant in {1}; it has been reported to the guards." />
+    <string id="=kcdt_a6276c69" text="Confess and accept judgment" />
+    <string id="=kcdt_a635f876" text="Gate search chance cap" />
+    <string id="=kcdt_a667364a" text="Thievery (KCD Thievery)" />
+    <string id="=kcdt_a6c01bbc" text="Hold {0} to build up time · let go before the gem turns red{1}" />
+    <string id="=kcdt_a6c3b249" text="On by default. When you leave the scene, everything that happened there is combined into one rumor written to the troop types of the person who caught you and the confronter. AnimusForge shares one memory per troop type per kingdom, so everyone of that kind across the kingdom will have \" />
+    <string id="=kcdt_a6cf8ce0" text="You" />
+    <string id="=kcdt_a719a211" text=" You still pay the agreed {0} denars." />
+    <string id="=kcdt_a730c00a" text="Seconds spent each time you feel out a \" />
+    <string id="=kcdt_a731603a" text="Hold this button on an eligible target to knock them out. Heroes and quest characters are always protected; no setting removes that. Hold actions need a key that can be held down; the mouse wheel and View / Back tap won't work. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_a779fa5a" text="How fast people around you notice you. 1.00 = default, 0.50 = half as fast, 0 = nobody notices." />
+    <string id="=kcdt_a7981ed3" text="Unknown pocket" />
+    <string id="=kcdt_a8328b4c" text="The stolen goods bag is empty." />
+    <string id="=kcdt_a8cd2f19" text="Unconscious body detection time (seconds)" />
+    <string id="=kcdt_a91f199d" text="Lay Low " />
+    <string id="=kcdt_a933ae51" text="Numpad 7" />
+    <string id="=kcdt_a9460097" text="A gate guard stops you: \" />
+    <string id="=kcdt_a9c7a575" text="Slip Away base chance" />
+    <string id="=kcdt_aa12161b" text="Escape (kept as a cancel key by the main view)" />
+    <string id="=kcdt_aa57d4b6" text="your hand stayed in their pocket too long" />
+    <string id="=kcdt_aa7b7834" text="Laundering days are multiplied by this. Default 0.50 = halved." />
+    <string id="=kcdt_aaf7f960" text="Write one line in your defense (base chance about {0}%; a good argument adds up to +{1}%, an absurd one costs you)." />
+    <string id="=kcdt_aaf83e3a" text="Code chance cap when the AI judges" />
+    <string id="=kcdt_ab1924ff" text="the clothing slot was not cleared" />
+    <string id="=kcdt_ab8c44bf" text="Open the stolen goods bag by origin" />
+    <string id="=kcdt_aba8b7fc" text="Highest chance of being searched at the gate. Default 0.40. Set it to 1.00 and carry enough stolen goods to trigger it reliably for testing." />
+    <string id="=kcdt_ac13ea72" text="Right Alt" />
+    <string id="=kcdt_ace22caa" text="Someone nearby is still hostile to you ({0}); you can't search now." />
+    <string id="=kcdt_acf20f02" text="nothing was added to the stolen goods bag" />
+    <string id="=kcdt_acf5bde1" text="{0}{1} · {2} · {3}" />
+    <string id="=kcdt_ad43be23" text="your sudden move startled them and they turned to see you" />
+    <string id="=kcdt_ad736c27" text="Selling here: won't be recognized" />
+    <string id="=kcdt_adf61bb9" text="Multiplier on the time needed to take the purse or an item. 0.50 = half the time, 0 = instant." />
+    <string id="=kcdt_ae50c8ed" text="Never mind" />
+    <string id="=kcdt_ae71e923" text="Rumor: {0}" />
+    <string id="=kcdt_ae99b91d" text="How many refusals commoners, merchants and gang members take before they stop haggling. Default 3." />
+    <string id="=kcdt_aeab2133" text="Right Stick Left" />
+    <string id="=kcdt_aec10d4a" text="Then it's settled. Hand over the money." />
+    <string id="=kcdt_aec35de0" text="You don't have enough money." />
+    <string id="=kcdt_af630a7a" text="{0}handed back the stolen {1}, " />
+    <string id="=kcdt_af6b0ad5" text="{0} was passing by, saw you and shouted" />
+    <string id="=kcdt_af7c9923" text="\nTotal laundering time: {0} days" />
+    <string id="=kcdt_b1501972" text="busy" />
+    <string id="=kcdt_b1fc2893" text="{0}: while {1} was {3} in {2}, {4}; in the end {1} {5}." />
+    <string id="=kcdt_b2d8982c" text="This equipment slot is in an abnormal transfer state and is locked for this scene; it cannot be taken again." />
+    <string id="=kcdt_b331a660" text="{0} seen {2} in {1}" />
+    <string id="=kcdt_b35b67e2" text="back pouch" />
+    <string id="=kcdt_b3a161e9" text="Backspace" />
+    <string id="=kcdt_b3d63b54" text="[Thievery] Caught stealing from {0}: {1}" />
+    <string id="=kcdt_b3e7af1d" text="Chance an ordinary merchant recognizes stolen goods each time you sell them. If recognized, your Crime Rating with the town's faction goes up." />
+    <string id="=kcdt_b4995a00" text="Weak after jail" />
+    <string id="=kcdt_b4db3eca" text="Lock the conversation while waiting for the AI" />
+    <string id="=kcdt_b550724c" text="{0} and others of their kind" />
+    <string id="=kcdt_b5593d74" text="here" />
+    <string id="=kcdt_b5665dea" text="Most loyalty each settlement can lose per day to your crimes. Default 5." />
+    <string id="=kcdt_b58069c1" text="Moves to the previous pocket on the wheel. The wheel restricts movement, but duplicate bindings can still clash with other actions. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_b5a6cce3" text="D-Pad Right" />
+    <string id="=kcdt_b5bc6272" text="The v1.4.8 state interface needed for knockouts does not exist." />
+    <string id="=kcdt_b618312f" text="On by default. Adds background to the haggling, persuasion and reply prompts: your clan, fiefs, renown and money on hand, your relation with them, local Crime Rating, alert level and how many times you were caught this visit; plus this NPC's persona from AnimusForge (heroes) and what they remember (heroes use their own memory, passersby the memory shared by their troop type). The AI uses this to judge whether you're telling the truth. Longer prompts, slightly more time and credits." />
+    <string id="=kcdt_b6ac390b" text="{0}haggled the fine down from {1} to {2}, " />
+    <string id="=kcdt_b6b278ae" text="Keyboard Keys" />
+    <string id="=kcdt_b6bfc3a3" text="[Fief] Morale in {0}{1}, so it didn't drop any further this time." />
+    <string id="=kcdt_b6e29754" text="On by default. Requires the option above. Also reads AnimusForge lore entries related to what you said, this settlement's recent news and the kingdom's recent major events. Longer prompts." />
+    <string id="=kcdt_b75cdcd5" text="Laundering days scale with value" />
+    <string id="=kcdt_b75f6210" text="he's softened a little" />
+    <string id="=kcdt_b77a3cd2" text="On by default. Thefts, knockouts, searches and lock picking nobody caught you at may be pieced together afterwards. Since 0.8.15.79 this is rolled once per town per day: 10% + that day's loot value/1000 (max 40%), +20% if a witness was more than half aware of you that day. A deduction adds the Crime Rating of the worst incident that day (once) and +1 alert level, with no confrontation." />
+    <string id="=kcdt_b7ae7db9" text="Effect per attitude level" />
+    <string id="=kcdt_b7f4ab0e" text="They offered to come with you to jail" />
+    <string id="=kcdt_b869ec50" text="the engine refused to play the fall animation" />
+    <string id="=kcdt_b8e60443" text="No NPC remembers anything about you yet." />
+    <string id="=kcdt_b8e7ac33" text="{0} s left" />
+    <string id="=kcdt_b937c13d" text="refused to pay and ran off on the spot" />
+    <string id="=kcdt_b9ac343f" text="Base reaction time for each struggle. Actual window = this value + 0.1 s per 100 Roguery, up to +0.3 s. Default 0.60: 0.6 s at level 0, 0.9 s at 300." />
+    <string id="=kcdt_ba9b4e6c" text="{0} released from jail" />
+    <string id="=kcdt_bb060db2" text="{0}paid a {1} denar fine to settle it" />
+    <string id="=kcdt_bb37ddf7" text="{0}, sworn to {1}{2}" />
+    <string id="=kcdt_bb9ac6ad" text="Stolen goods bag · {0} ({1} items; laundered items can be dragged into your inventory)" />
+    <string id="=kcdt_bbb1a2f6" text="Their fiefs: {0}{1}." />
+    <string id="=kcdt_bbe45d03" text="Never mind" />
+    <string id="=kcdt_bc5d3f5d" text=" is already as low as it can go" />
+    <string id="=kcdt_bd6c1e04" text="(Wait for his answer)" />
+    <string id="=kcdt_be4e9776" text="{0} is already wary of you; you can't steal from them again" />
+    <string id="=kcdt_bebbfea3" text="Enable punishment and jail" />
+    <string id="=kcdt_bg_a01" text="You stepped away from the door." />
+    <string id="=kcdt_bg_c1" text="breaking into someone's house" />
+    <string id="=kcdt_bg_c2" text="breaking into people's houses" />
+    <string id="=kcdt_bg_c3" text="breaking into a house" />
+    <string id="=kcdt_bg_c4" text="What are you doing in my house? How did you get in here?" />
+    <string id="=kcdt_bg_d01" text="There are no house doors you can pick around here." />
+    <string id="=kcdt_bg_d02" text="ahead" />
+    <string id="=kcdt_bg_d03" text="behind you" />
+    <string id="=kcdt_bg_d04" text="to your left" />
+    <string id="=kcdt_bg_d05" text="to your right" />
+    <string id="=kcdt_bg_d06" text=", higher up" />
+    <string id="=kcdt_bg_d07" text=", further down" />
+    <string id="=kcdt_bg_d08" text="Nearest house door: {0}, about {1} m{2}." />
+    <string id="=kcdt_bg_e05" text="This door doesn't lead anywhere you can go." />
+    <string id="=kcdt_bg_h01" text="Locked house door ({0}) · {1} to pick the lock · lockpicks: {2}" />
+    <string id="=kcdt_bg_h02" text="Unlocked house door · {0} to slip inside" />
+    <string id="=kcdt_bg_h03" text="Someone is using this house right now; you can't get in." />
+    <string id="=kcdt_bg_h04" text="House: back door or shutter ({0}) · {1} to pick the lock · lockpicks: {2}" />
+    <string id="=kcdt_bg_m01" text="[Stealth] {0} stirs in their sleep..." />
+    <string id="=kcdt_bg_m02" text="[Stealth] {0} woke up!" />
+    <string id="=kcdt_bg_m03" text="[Stealth] You slip inside. {0} asleep in here; tread softly." />
+    <string id="=kcdt_bg_m04" text="[Stealth] You slip inside. Someone is home and awake." />
+    <string id="=kcdt_bg_m05" text="[Stealth] You slip inside. Nobody seems to be home." />
+    <string id="=kcdt_bg_o01" text="[Thievery] The door lock clicks open (Roguery XP +{0}). You slip inside..." />
+    <string id="=kcdt_bg_s01" text="House break-ins" />
+    <string id="=kcdt_bg_s02" text="On by default. In a town's streets, walk up to one of the three house doors that are normally locked and press the lock picking key to pick it (an ordinary lock; being seen works like picking a chest). Inside, at night 2-3 people are asleep: footsteps and lock noise can wake them, and anyone awake who sees you confronts you for trespassing. By day 0-1 person is home and awake; they first tell you to get out and give you a few seconds before confronting you. Chests inside work like any other chest. Houses in use by a quest can't be entered." />
+    <string id="=kcdt_bg_s03" text="Sleepers at night (minimum)" />
+    <string id="=kcdt_bg_s04" text="Fewest people asleep in a house you break into at night. Default 2." />
+    <string id="=kcdt_bg_s05" text="Sleepers at night (maximum)" />
+    <string id="=kcdt_bg_s06" text="Most people asleep in a house you break into at night. Default 3." />
+    <string id="=kcdt_bg_s07" text="People home by day (maximum)" />
+    <string id="=kcdt_bg_s08" text="By day 0 to this many people are home and awake. Default 1." />
+    <string id="=kcdt_bg_s09" text="Trespassing Crime Rating" />
+    <string id="=kcdt_bg_s10" text="Base Crime Rating for being caught inside a house without having stolen anything (guards and soldiers x1.5). If you already stole something in this house, the lock picking Crime Rating is used if it is higher. Default 8." />
+    <string id="=kcdt_bg_s11" text="Seconds to leave when warned by day" />
+    <string id="=kcdt_bg_s12" text="By day, whoever spots you first tells you to get out. If you are still inside when this runs out, they confront you. Default 8." />
+    <string id="=kcdt_bg_s13" text="How easily sleepers wake" />
+    <string id="=kcdt_bg_s14" text="Scales how fast footsteps and lock noise wake sleepers. Default 1.00; 0 = they never wake from noise. Moving within 7 m wakes them faster the louder your gear is (crouching halves it); Roguery 300 halves it again." />
+    <string id="=kcdt_bg_w01" text="[Stealth] {0}: \" />
+    <string id="=kcdt_bg_w02" text="[Stealth] {0} has had enough of you." />
+    <string id="=kcdt_bg_x01" text="[Thievery] The patrolling {0} caught you picking a door lock" />
+    <string id="=kcdt_bg_x02" text="[Thievery] {0} saw you picking a door lock and shouted" />
+    <string id="=kcdt_bg_x03" text="[Thievery] {0} caught you inside their house" />
+    <string id="=kcdt_bg_x04" text="{0}! \" />
+    <string id="=kcdt_bh_a01" text="You are {1} of {0}, at home in broad daylight. A stranger has just walked into your house uninvited. Tell them to get out right now (one line, under 12 words), angry and wary, not yet calling the guards." />
+    <string id="=kcdt_bh_c1" text="picking the lock of a house door" />
+    <string id="=kcdt_bh_c2" text="picking the locks of people's doors" />
+    <string id="=kcdt_bh_c3" text="picking the lock of your door" />
+    <string id="=kcdt_bh_c4" text="Someone saw you working the lock on that house door." />
+    <string id="=kcdt_bh_d01" text="[Discovery] In {0}, a household woke up to find their home had been broken into and robbed." />
+    <string id="=kcdt_bh_k01" text="Hold {0}; letting go or moving away cancels · asleep: any side works, fewer struggles · when the gem turns red they wake{1}" />
+    <string id="=kcdt_bh_k02" text="the paired takedown animation is not installed; using the basic knockout" />
+    <string id="=kcdt_bh_k03" text="the engine refused to play the choke animation" />
+    <string id="=kcdt_bh_s01" text="Sleepers are easier to pickpocket" />
+    <string id="=kcdt_bh_s02" text="On by default. Someone asleep in a house you broke into notices a pickpocket much more slowly (see Cheats / House Break-ins for how much)." />
+    <string id="=kcdt_bh_s03" text="Owners find the break-in the next day" />
+    <string id="=kcdt_bh_s04" text="On by default. If you stole something from a house and got out without being caught, the owners find out when the day ends: that town's alert level goes up by 1, and that day's after-the-fact deduction roll gets a bonus (see Cheats / House Break-ins)." />
+    <string id="=kcdt_bh_s05" text="Snapping a pick indoors is louder" />
+    <string id="=kcdt_bh_s06" text="On by default. When a lockpick snaps on a chest indoors (houses, lord's halls, taverns and other interiors), the people nearby get more suspicious than outdoors. The extra shrinks with Roguery (see Cheats / Witnesses)." />
+    <string id="=kcdt_bh_s07" text="Sleeper awareness when pickpocketed" />
+    <string id="=kcdt_bh_s08" text="How fast a sleeping resident notices a pickpocket, as a multiple of someone awake. Default 0.30. Only applies when 'Sleepers are easier to pickpocket' is on." />
+    <string id="=kcdt_bh_s09" text="Deduction bonus after a discovered break-in" />
+    <string id="=kcdt_bh_s10" text="Added to that town's daily deduction chance when the owners find a break-in. Default 0.15 (+15%). The final chance is capped at 90%." />
+    <string id="=kcdt_bh_s11" text="Indoor snapped-pick alert" />
+    <string id="=kcdt_bh_s12" text="How much more suspicion a pick snapping on an indoor chest causes than outdoors, at Roguery 0. Default 2.00. Roguery shrinks the extra: at 300 only a quarter of it is left (2.00 becomes 1.25), on top of the usual Roguery reduction for lock noise." />
+    <string id="=kcdt_bh_s13" text="AI line when told to leave a house" />
+    <string id="=kcdt_bh_s14" text="On by default. By day, when someone at home spots you and tells you to get out, AnimusForge writes a short line for them. Without AnimusForge (or if it times out) only the fixed warning is shown." />
+    <string id="=kcdt_bh_s15" text="Add doors to houses" />
+    <string id="=kcdt_bh_s16" text="On by default. In towns where house doors are only painted on the walls, the mod places a few real door models of the local culture on house walls so you can pick them and get in. Turn off to keep the town untouched: only the game's own locked doors and door models can be picked. Takes effect the next time you enter the town." />
+    <string id="=kcdt_bh_t01" text="asleep" />
+    <string id="=kcdt_c080bc5c" text="Hide the goods and bluff your way through (about {0}%)" />
+    <string id="=kcdt_c0a32b85" text="Scene" />
+    <string id="=kcdt_c0b9e436" text="appearance sync for this target failed before; no more retries in this scene" />
+    <string id="=kcdt_c0f3145f" text="{0} · {1} / Esc to cancel" />
+    <string id="=kcdt_c10e1a62" text="Fine per Crime Rating point (denars)" />
+    <string id="=kcdt_c12c88ae" text="turned themselves in at the gate and was thrown in jail" />
+    <string id="=kcdt_c1549d50" text="The world keeps moving while you search. Watch for eyes around you." />
+    <string id="=kcdt_c1d22837" text=" / Left Mouse" />
+    <string id="=kcdt_c20c765c" text="This is a coup mission managed by AnimusForge; KCDThievery has handed over knockouts and scene combat control." />
+    <string id="=kcdt_c20d6754" text="Enable body search" />
+    <string id="=kcdt_c36d2a76" text="Show the waiting prompt in the dialog box" />
+    <string id="=kcdt_c37b5335" text="You don't have enough money." />
+    <string id="=kcdt_c3bf4ae9" text="failed to keep the target down: {0}" />
+    <string id="=kcdt_c3c0a3ab" text="Nothing more to say? Then what are you going to do?" />
+    <string id="=kcdt_c3d67dd3" text="The fine is {0} denars and you carry {1} denars.\nEnter the amount you are willing to pay{2}." />
+    <string id="=kcdt_c4b69c91" text="I don't have time to argue with you." />
+    <string id="=kcdt_c4d1d219" text="Enable haggling" />
+    <string id="=kcdt_c4eda0ad" text="The equipment source changed during the transfer; no item was granted." />
+    <string id="=kcdt_c550f024" text="[Jail] You are sentenced to {1} days in the jail of {0}." />
+    <string id="=kcdt_c58ee0f3" text="Multiplier added per 75 Roguery" />
+    <string id="=kcdt_c6e958b3" text="Press once near an unconscious target to open the search wheel. Can share a key with pickpocket. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Watch out for the default F interact, E kick, G drop weapon, Z crouch and WASD movement keys." />
+    <string id="=kcdt_c70e11b6" text="Wheel Right" />
+    <string id="=kcdt_c79bd534" text="In {0} you found someone lying on the ground, and {1} was right beside them." />
+    <string id="=kcdt_c7bf9d65" text="The people around you" />
+    <string id="=kcdt_c7c17d79" text="The merchant recognized the goods as stolen. Word will reach the guards soon." />
+    <string id="=kcdt_c7c567c4" text="You are {1} of {0}{2}. {3}{4}" />
+    <string id="=kcdt_c7f8fce2" text="Enable gate searches" />
+    <string id="=kcdt_c85b6fda" text="Gang leader price ratio" />
+    <string id="=kcdt_c86fe480" text="Built {0} s × {1} = wheel time {2} s" />
+    <string id="=kcdt_c938ce5e" text=", the fine goes up to {0} denars" />
+    <string id="=kcdt_c9f0289f" text="{0}The next batch will be laundered in about {1}.\n" />
+    <string id="=kcdt_ca0bf549" text="tried to hide stolen goods and bluff through, but was searched and all {0} items were confiscated" />
+    <string id="=kcdt_ca3b52bd" text="Reason with them in confrontations" />
+    <string id="=kcdt_ca3bf485" text=" to deselect" />
+    <string id="=kcdt_ca7a843c" text="Knockout Struggle (tap)" />
+    <string id="=kcdt_cab8ad93" text="Save it!" />
+    <string id="=kcdt_cb1c224a" text="Hand back stolen goods in confrontations" />
+    <string id="=kcdt_cb5161b3" text="{0} · {1}" />
+    <string id="=kcdt_cb6ec211" text="You put on {0} stolen items directly." />
+    <string id="=kcdt_cc387e07" text="To knock someone out, crouch behind them with nothing in the way. Heroes, quest characters and alerted people are protected." />
+    <string id="=kcdt_cc5049d6" text="Moved {0} stolen items from your inventory into the stolen goods bag." />
+    <string id="=kcdt_cc7d175c" text="Immunity in your own fiefs" />
+    <string id="=kcdt_cc7ef9a1" text="Pad {0}" />
+    <string id="=kcdt_ccd670cf" text="Nimble Fingers gather bonus" />
+    <string id="=kcdt_cd19c67e" text="{0}: {1} was {3} in {2} when you stopped them on the spot; in the end {1} {4}." />
+    <string id="=kcdt_cd367dd3" text="You pay a {0} denar fine and {1} lets you go." />
+    <string id="=kcdt_cd4fd0b6" text="shoved past the gate guards and forced their way in" />
+    <string id="=kcdt_cd9ddc3c" text="They handed back everything they stole; you calm down a little and agree to halve the fine" />
+    <string id="=kcdt_cda4a36c" text="Later ({0}), {1} came back to {2} and {3}. As for the case from {4} ({5}),{6}" />
+    <string id="=kcdt_cdb0df0e" text="You: {0}" />
+    <string id="=kcdt_cdb5bad7" text="Numpad 6" />
+    <string id="=kcdt_cddf9cb5" text="(He frowns, still weighing your words...)" />
+    <string id="=kcdt_ce568924" text="knocking someone out from behind" />
+    <string id="=kcdt_ce68ce87" text="{0} ({1}){2}" />
+    <string id="=kcdt_cf57aa31" text="Someone saw you attack a man from behind." />
+    <string id="=kcdt_cf9908b6" text="[Stealth] The clothing is in the stolen goods bag, but the model's appearance didn't update ({0})." />
+    <string id="=kcdt_cfad75c1" text="they felt a hand slipping in" />
+    <string id="=kcdt_cfaf4467" text="Gamepad Buttons" />
+    <string id="=kcdt_cm_s01" text="Crime Rating multiplier" />
+    <string id="=kcdt_cm_s02" text="Multiplies the Crime Rating you get for being caught: failed pickpocketing, knockouts and searches, being seen by passersby or guards, discovered bodies, after-the-fact deductions, failed persuasion and fleeing. Default 1.00 (commoner 10, merchant 15, soldier 20, guard or noble 30). 0.50 halves it, 0 means no Crime Rating. Fines are not affected; adjust \" />
+    <string id="=kcdt_cr_m01" text="[Stealth] {0} {1} noticed you creeping about and is watching you now. You can't steal from them for the rest of this scene." />
+    <string id="=kcdt_cr_s01" text="Crouching makes passersby suspicious" />
+    <string id="=kcdt_cr_s02" text="On by default. While you crouch (moving or standing still), people who can see you slowly grow suspicious, even if you aren't stealing anything. Hearing doesn't count. When someone's suspicion fills up they only start watching you: no confrontation and no Crime Rating, but you can't pickpocket or knock them out for the rest of the scene, and if you later steal near them their suspicion starts at half. Guards and soldiers notice faster. Speeds are under \" />
+    <string id="=kcdt_cr_s03" text="Crouching suspicion speed" />
+    <string id="=kcdt_cr_s04" text="How fast people who see you crouching grow suspicious, compared with watching you steal. Default 0.25 = a quarter as fast. Suspicion still fades at the normal speed once you stand up or leave their sight." />
+    <string id="=kcdt_cr_s05" text="Crouching: guard sensitivity" />
+    <string id="=kcdt_cr_s06" text="Guards and soldiers grow suspicious of a crouching stranger this many times faster (on top of their usual sharper eyes). Default 1.5." />
+    <string id="=kcdt_d0222b98" text="On by default. Like AnimusForge, the dialog box itself shows an animated \" />
+    <string id="=kcdt_d04aca5c" text="about {0} days in jail" />
+    <string id="=kcdt_d059b1cb" text="Numpad 1" />
+    <string id="=kcdt_d05e65af" text="they" />
+    <string id="=kcdt_d0ec8eec" text="[Confrontation] Things have turned into a brawl. AnimusForge's conflict system will settle this one." />
+    <string id="=kcdt_d1086ad0" text="Guard call range (meters)" />
+    <string id="=kcdt_d13b707b" text="Time someone needs to watch an unconscious body to confirm the discovery. Default 1.00." />
+    <string id="=kcdt_d1deb634" text="{0} items" />
+    <string id="=kcdt_d1f482b0" text="AI judges haggling and persuasion" />
+    <string id="=kcdt_d21b2923" text="broke out of jail and is wanted again" />
+    <string id="=kcdt_d29ba886" text="When they refuse your price, the chance they offer a middle price (halfway between your offer and the fine). Default 0.50." />
+    <string id="=kcdt_d2b1a383" text="They gave up haggling halfway" />
+    <string id="=kcdt_d34bdb13" text="{0} escaped from jail" />
+    <string id="=kcdt_d3da4e9c" text="On by default. If you flee a confrontation you are wanted in this scene until you leave it or go to jail. If the confronter is a guard or soldier, he attacks at once; anyone else just shouts. After that, any town guard or jailer who sees you (within 15 m, not directly behind them, with clear line of sight) comes after you, and guards who spot you mid-fight join in; you stay wanted even if you knock all the guards down. Turn off to go back to the old \" />
+    <string id="=kcdt_d3ee3171" text="You shove the guard aside and push your way in. (Crime Rating +{0})" />
+    <string id="=kcdt_d41ca4d1" text="Extra gather speed. Default 0.15 = +15%." />
+    <string id="=kcdt_d43efcbf" text="{0} jailed in {1}" />
+    <string id="=kcdt_d444fed8" text="Soldier" />
+    <string id="=kcdt_d456be01" text="{0}... {1} denars, not a coin less." />
+    <string id="=kcdt_d4b36692" text="[Thievery] \" />
+    <string id="=kcdt_d5c118fd" text="In this line they offer {0} denars" />
+    <string id="=kcdt_d62d6f5a" text="Not enough time; you pulled back." />
+    <string id="=kcdt_d6775a79" text="Nimble Fingers gather bonus" />
+    <string id="=kcdt_d6c8394d" text="Equipment transfer error: {0}. This slot is now locked to prevent duplicates." />
+    <string id="=kcdt_d71eac26" text="{0} caught {2} in {1}" />
+    <string id="=kcdt_d724e957" text="Pick stolen goods to sell to a local merchant (may be recognized)" />
+    <string id="=kcdt_d759e332" text="this person" />
+    <string id="=kcdt_d7d4458d" text="Loyalty floor" />
+    <string id="=kcdt_d7d77279" text="turned themselves in at the gate and awaited judgment" />
+    <string id="=kcdt_d7e7e9e4" text="The gang leader doesn't ask where things came from. Pick an origin; the inventory will show only goods stolen there." />
+    <string id="=kcdt_d8031ba9" text="The chance of being recognized depends on origin: normal in the town it came from, halved in other towns of the same kingdom or for unknown origin, none in other kingdoms. Pick an origin; the inventory will show only goods stolen there." />
+    <string id="=kcdt_d836fee1" text="the fine goes up to {0} denars, " />
+    <string id="=kcdt_d837892a" text="Recent news in this settlement:\n{0}" />
+    <string id="=kcdt_d84ef36c" text="When off, moving the mouse no longer changes the selected pocket; only the left/right bindings or the stick (if enabled) select." />
+    <string id="=kcdt_d8589dfc" text="Days added per 1000 denars" />
+    <string id="=kcdt_d85d7db4" text="{0}{1}\n\n(Press Esc to stop waiting)" />
+    <string id="=kcdt_d8b10261" text="Couldn't get the stolen goods bag or the target is gone; no equipment was handed out." />
+    <string id="=kcdt_d93fbdef" text="This equipment slot has already been handled and cannot be taken twice." />
+    <string id="=kcdt_da36ade2" text="[Thievery] Something went wrong; pickpocketing is temporarily disabled. See Modules\\KCDThievery\\error.log for details." />
+    <string id="=kcdt_daa70e86" text="paid a {0} denar fine at the gate" />
+    <string id="=kcdt_db51c2ab" text="[Stealth] Caught while {0} {1}: {2}" />
+    <string id="=kcdt_dba26b44" text="They confessed; you're handing them over to the authorities for sentencing" />
+    <string id="=kcdt_dbd7b5f3" text="you find this price insulting and are furious." />
+    <string id="=kcdt_dbe67d6c" text="The gang leader takes {0} items and gives you {1} denars." />
+    <string id="=kcdt_dc239851" text="{0} recognized fencing goods in {1}" />
+    <string id="=kcdt_dc3420b8" text="You are the victim. You just caught {0} {1}." />
+    <string id="=kcdt_dc677817" text="Your sentence is served. The jailer shoves you out of the cell." />
+    <string id="=kcdt_dccbeaaf" text="Halt! " />
+    <string id="=kcdt_dd_m01" text="[Deduction] In {2}, people put yesterday's incidents together and suspected you ({0} incidents, Crime Rating +{1})." />
+    <string id="=kcdt_dd_m02" text="[Deduction] In {1}, people put a few things together and guessed it was their lord ({0} incidents yesterday). They only dare whisper about it." />
+    <string id="=kcdt_dd2ca0c5" text="Fat Purse bonus" />
+    <string id="=kcdt_dda599fd" text="{0}{1}{2} denars" />
+    <string id="=kcdt_ddc0ce45" text=" (He names {0} denars: say \" />
+    <string id="=kcdt_de828fa6" text="(Done talking. Hear his answer)" />
+    <string id="=kcdt_df3b1d50" text="convinced the guard at the gate it was a case of mistaken identity" />
+    <string id="=kcdt_dfb23537" text="[Pursuit] The guard {0} recognized you and is charging at you!" />
+    <string id="=kcdt_dfd36ddb" text="How many refusals guards and soldiers take before they stop haggling. Default 2." />
+    <string id="=kcdt_dfde0c26" text=" They have now been caught {0} times during this visit." />
+    <string id="=kcdt_dfdecbb0" text="Rumor: {0}, someone called {1} got caught {3} times in a row in {2}: {4}." />
+    <string id="=kcdt_e0214e19" text=" (offers {0} denars)" />
+    <string id="=kcdt_e0584f07" text="Relevant world lore:\n{0}" />
+    <string id="=kcdt_e0680afa" text="bribed the jailer and slipped out of the cell" />
+    <string id="=kcdt_e08a45a8" text="On by default. Targets struggle during the knockout bar: commoners, merchants and gang members once; soldiers, guards and nobles twice. When \" />
+    <string id="=kcdt_e1088964" text=" (He won't haggle with you anymore; the fine goes up to {0} denars)" />
+    <string id="=kcdt_e13c6879" text="Persuasion chance = base + Charm/400 + Roguery/800, ×0.8 against guards, clamped to 5%-85%. Only one persuasion per confrontation; failure adds Crime Rating at once and raises the fine." />
+    <string id="=kcdt_e1865e0b" text="{0}{1} (Crime Rating +{2})" />
+    <string id="=kcdt_e2119412" text="{0} They carry {1} denars." />
+    <string id="=kcdt_e270e64c" text="They can't pay the fine; you're hauling them off to jail" />
+    <string id="=kcdt_e27f2ae6" text="Cancels the current action or closes screens such as the search wheel. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_e34fa3e5" text="You don't have enough money." />
+    <string id="=kcdt_e3689327" text="Nimble Fingers " />
+    <string id="=kcdt_e4076c80" text="Wheel Left" />
+    <string id="=kcdt_e40f3d6e" text="the player" />
+    <string id="=kcdt_e416ea84" text="(Pay the fine, {0} denars) " />
+    <string id="=kcdt_e4444234" text="you accept {0} denars and let them go once you have the money (do not say you'll drop it or waive it)." />
+    <string id="=kcdt_e4b02836" text="Success chance = base + Roguery/400 - 5% per 2000 denars of stolen goods, clamped to 5%-70%. Failure: confiscation + Crime Rating +5 + alert level +1. Default 0.20." />
+    <string id="=kcdt_e50131a8" text="Left Stick Right" />
+    <string id="=kcdt_e521fb49" text="Merchant" />
+    <string id="=kcdt_e5e11617" text="Days added per 1000 denars" />
+    <string id="=kcdt_e6712527" text="Stolen goods bag (laundered items can be dragged into your inventory)" />
+    <string id="=kcdt_e6d19276" text="{0} (sentence: {1})" />
+    <string id="=kcdt_e6d35b07" text="Player" />
+    <string id="=kcdt_e6fae2d3" text="Moved {0} laundered items into your inventory." />
+    <string id="=kcdt_e7304b5b" text="Lose loyalty for crimes in your own fiefs" />
+    <string id="=kcdt_e7844b47" text="{0} was caught {1}; in the end {0} {2}." />
+    <string id="=kcdt_e78cc7e2" text="The target's state or distance changed; pickpocketing cancelled." />
+    <string id="=kcdt_e7932322" text="{0} (Fine: {1} denars)" />
+    <string id="=kcdt_e84084c8" text="Lets nearby people discover unconscious bodies and call nearby guards." />
+    <string id="=kcdt_e869a1c3" text="Enable takedowns" />
+    <string id="=kcdt_e8c3cb4b" text="(He is working out your price)" />
+    <string id="=kcdt_e9ddc589" text="You offended again within a month, so the executioner branded your neck. For the next 10 days the people of {0} will spot you at a glance (detection speed x1.5)." />
+    <string id="=kcdt_ea63e0f6" text="Numpad 9" />
+    <string id="=kcdt_ea7a1d22" text="Someone saw {0} {1}, and you went over and stopped them." />
+    <string id="=kcdt_eac6210a" text="On by default. When you're caught, AnimusForge's auxiliary model writes a fresh opening line for the confrontation (generated in the background, no stutter). Falls back to the fixed line on timeout or failure. Uses API credits." />
+    <string id="=kcdt_eb368e06" text="How many seconds you get once the wheel opens. 0 = the seconds you built up holding the pickpocket key (normal play); any other number always gives exactly that many seconds, for testing." />
+    <string id="=kcdt_eb5d1b60" text="Gang member" />
+    <string id="=kcdt_eb90860f" text="AI writes the confrontation opening line" />
+    <string id="=kcdt_ebb2f9cb" text="Success chance right at the required level. Chance = base + (Roguery - required level)/10 × bonus per 10 levels, max 40%. Default 0.15: 15% at 200, 20% at 250, 25% at 300." />
+    <string id="=kcdt_ec00cc1e" text="Lay them out, then." />
+    <string id="=kcdt_ec8c72a9" text="Knockout and pickpocket use the same key. Set them apart in MCM." />
+    <string id="=kcdt_ecb12bda" text="confessed and awaited sentencing" />
+    <string id="=kcdt_ecbf4bfb" text="Good. I'll pick a few things to show you." />
+    <string id="=kcdt_ecdf56b7" text="searching you" />
+    <string id="=kcdt_ed023e29" text="[Thievery] Updated {0} settings to the new recommended defaults (settings you changed were left alone): {1}" />
+    <string id="=kcdt_eda7a9a5" text="{0} stolen items aren't laundered yet and were put back in the stolen goods bag. Wait for things to cool down, or have a gang leader move them." />
+    <string id="=kcdt_edb32dbc" text="slipped the guard {0} denars and he looked the other way" />
+    <string id="=kcdt_eece09d3" text="Lay Low: launder faster" />
+    <string id="=kcdt_eed221b2" text="On by default. With AnimusForge installed, enables the integrations below; if it is missing or its interface doesn't match, they are skipped automatically (logged as AF.Bridge in diagnostic.log). When off, this mod never calls AnimusForge (except the body-conflict guard, which is always on)." />
+    <string id="=kcdt_ef729acf" text="goods, can be moved any time" />
+    <string id="=kcdt_ef78cca7" text="You are held down on a bench and caned hard, losing half your health. For the next 3 days the wounds heal badly and your health recovers to 70% at most." />
+    <string id="=kcdt_ef84785c" text="They hold no fiefs." />
+    <string id="=kcdt_efaa0208" text="Someone saw you stripping a man lying on the ground." />
+    <string id="=kcdt_efcebc06" text="Needs {0} s · press {1} to take" />
+    <string id="=kcdt_f02034eb" text="Hold on an awake target to build up pickpocket time; use the separate binding below to search unconscious bodies. Hold actions need a key that can be held down; the mouse wheel and View / Back tap won't work. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once. Key names use the Xbox layout. PlayStation: A=Cross, B=Circle, X=Square, Y=Triangle, LB/RB=L1/R1, LT/RT=L2/R2." />
+    <string id="=kcdt_f0383679" text="{0} ({1} · {2} items · {3}% of market price; whatever you put here is sold when you click \" />
+    <string id="=kcdt_f0406965" text=" (selling here: normal chance of being recognized)" />
+    <string id="=kcdt_f04a330f" text="You write dialogue for a medieval NPC in Mount &amp; Blade II: Bannerlord. Fully become this NPC: respond according to their personality, station, relationship with the player, what they remember, the relevant world lore and the conversation so far in this confrontation. You may press them, mock them, bargain or soften, as long as it fits the character. Check the \" />
+    <string id="=kcdt_f04e83d6" text="nobody stopped them on the spot, but word spread and it was reported to the authorities" />
+    <string id="=kcdt_f0538b17" text="Cancel / Close" />
+    <string id="=kcdt_f05cf014" text="The wheel direction and confirm bindings overlap. Set them apart in MCM." />
+    <string id="=kcdt_f085af84" text="You sell {0} stolen items to the merchant for {1} denars." />
+    <string id="=kcdt_f0ba99ff" text="On by default. If you're caught in a town, castle or village your clan owns (a village counts by who owns its castle or town), people recognize you as their lord and can only glare: no confrontation, no Crime Rating, no relation loss, no alert increase, no deduction, no pursuit, no record; you aren't searched at the gate and merchants who recognize stolen goods keep quiet. The person who caught you still can't be robbed again this visit. Fiefs of other clans in your kingdom don't count." />
+    <string id="=kcdt_f11e4c0a" text="You talk {0} round and the matter is dropped." />
+    <string id="=kcdt_f1b599f9" text="Forget it" />
+    <string id="=kcdt_f2240540" text="The equipment count in the stolen goods bag doesn't match; nothing was committed." />
+    <string id="=kcdt_f28a9d13" text="a caning" />
+    <string id="=kcdt_f32d8f58" text="Rumor: {0}, someone called {1} was caught red-handed {3} in {2}; in the end {1} {4}." />
+    <string id="=kcdt_f34eb6cd" text="Left Mouse" />
+    <string id="=kcdt_f412c027" text="Slip Away " />
+    <string id="=kcdt_f46b9a3a" text="talked them round in a few words and the matter was dropped" />
+    <string id="=kcdt_f4b5538d" text="what you say when they have convinced you and you let them go" />
+    <string id="=kcdt_f5591509" text="You stood up; pickpocketing interrupted." />
+    <string id="=kcdt_f57e89cb" text="Fence price ratio (gang leader)" />
+    <string id="=kcdt_f59a212c" text="Reason with him" />
+    <string id="=kcdt_f5b8fe44" text="Could not confirm the equipment was removed from its source; no item was granted." />
+    <string id="=kcdt_f6125a4a" text="Fine multiplier after handing back loot" />
+    <string id="=kcdt_f62f119c" text="Haggle patience (guards)" />
+    <string id="=kcdt_f6305d4e" text="When the target struggles during a knockout and \" />
+    <string id="=kcdt_f64053ed" text="the jail" />
+    <string id="=kcdt_f66e7c98" text="Left Stick Down" />
+    <string id="=kcdt_f690fc5c" text="{0}{1} (Fine reduced to {2} denars)" />
+    <string id="=kcdt_f6a2a747" text="(Haggle{0}) {1} denars? That's robbery..." />
+    <string id="=kcdt_f6b11eb2" text="they broke free of your grip and turned to see you" />
+    <string id="=kcdt_f6fd8259" text="{0} caught them red-handed" />
+    <string id="=kcdt_f7279ae8" text="On by default. Confessing in a confrontation brings a sentence based on Crime Rating: ≤30 the pillory (3 days of buying 20% higher and selling 20% lower), 30-65 a caning (lose half your health, recover to at most 70% for 3 days), ≥65 jail (Crime Rating ÷ 10 days). Reoffending against the same faction within 30 days adds a brand (detection ×1.5 for 10 days). Being unable to pay, being knocked down resisting arrest, or choosing jail also lands you in a cell. In jail you can bribe or escape; serving the sentence clears your Crime Rating and leaves you weak for 3 days. Turn off and confessing only adds Crime Rating." />
+    <string id="=kcdt_f737c96b" text="A knockout error occurred; the feature has been disabled." />
+    <string id="=kcdt_f7b09c5b" text="Slip Away base chance" />
+    <string id="=kcdt_f7eacb45" text="[Thievery] {0}" />
+    <string id="=kcdt_f7f02496" text="The latest {0} memories Thievery wrote into AnimusForge, newest first. Hover over a line to read it in full.\nScene: the people present remember it and forget once you leave the scene. Hero: this hero remembers it for good. Rumor: everyone of the same troop type in the same kingdom has heard it.\nThese memories only go into NPC prompts. They don't show up in AnimusForge's conversation history, but NPCs will bring them up when you talk." />
+    <string id="=kcdt_f8105adc" text="{0} is already wary of you; you can't knock them out." />
+    <string id="=kcdt_f82fe14a" text="Enable AnimusForge integration" />
+    <string id="=kcdt_f85ac9f5" text="When persuasion drops to this number, talks break down (same as a failed persuasion): the Crime Rating sticks, the fine ×1.5 (not if a haggled price was already agreed), and no more reasoning or haggling. Default -3." />
+    <string id="=kcdt_f8691e24" text="On by default. Noise (0-100) = armor material per body part (cloth 0, leather 15, mail 40, plate 60) weighted by coverage + 5 per 10 kg of gear + 10 for a two-handed weapon or shield in hand; crouching ×0.5, running ×1.5. Noise makes the person you rob notice you faster (×2 at 100) and lets people within 10 m with their back to you \" />
+    <string id="=kcdt_f8e9457c" text="Trying to jump me from behind?!" />
+    <string id="=kcdt_f984d16f" text="you caught them red-handed" />
+    <string id="=kcdt_f9df18ab" text="Knockouts / searches can be noticed too" />
+    <string id="=kcdt_fa97ceff" text="Success chance added for every 10 Roguery above the required level. Default 0.010 = +1%." />
+    <string id="=kcdt_fb6a0a5c" text="Guards and soldiers also get long-term rumors" />
+    <string id="=kcdt_fb710baa" text="When you gave a reason and the AI scores it, the skill-based chance from code is capped at this before the AI score is added. Default 0.75: however high your skills, an absurd argument clearly costs you. Without a reason the cap is still 90%." />
+    <string id="=kcdt_fbefd8b4" text=" And in your anger you raised the fine to {0} denars; say this number in your reply." />
+    <string id="=kcdt_fcd15d67" text="What NPCs remember ({0} entries)" />
+    <string id="=kcdt_fd2350a4" text="Selling here: normal chance of being recognized" />
+    <string id="=kcdt_fd358700" text="The total or exact equipment count in the stolen goods bag is wrong after commit." />
+    <string id="=kcdt_fd48ccb5" text="." />
+    <string id="=kcdt_fe1a2a02" text="Feature Toggles" />
+    <string id="=kcdt_fe66f833" text="Left stick selects on the wheel" />
+    <string id="=kcdt_fe6d50ab" text="{0} days" />
+    <string id="=kcdt_feb7295e" text="Wheel Up (cannot be held)" />
+    <string id="=kcdt_ff_busy" text="[Fencing] Finish or cancel the current sale before starting another." />
+    <string id="=kcdt_ff_buyer_funds" text="{0} has {1} denars available for stolen goods (limit {2}; recovers {3}% of the limit per game day). You may sell more, but any amount above the available funds is forfeited." />
+    <string id="=kcdt_ff_check_failed" text="[Fencing] The sale could not be checked safely. No goods were sold. Cancel this screen and try again." />
+    <string id="=kcdt_ff_forfeit" text=" (Goods: {0}; unpaid: {1}, forfeited)" />
+    <string id="=kcdt_ff_gold_limit" text="[Fencing] This sale would exceed your gold limit. Remove some goods before clicking Done." />
+    <string id="=kcdt_ff_guard_unavailable" text="[Fencing] The funds check could not be installed. Limited-funds fencing is unavailable; your goods have not been sold." />
+    <string id="=kcdt_ff_merchant_name" text="Merchants in {0}" />
+    <string id="=kcdt_ff_no_buyer" text="[Fencing] The buyer could not be identified. No goods were sold. Close this screen and try again." />
+    <string id="=kcdt_ff_paid_balance" text="The buyer has {0} denars left for stolen goods." />
+    <string id="=kcdt_ff_receive" text="You will receive {0} denars" />
+    <string id="=kcdt_ff_refunded" text="[Fencing] No sale was completed. All selected goods were returned to the stolen goods bag." />
+    <string id="=kcdt_ff_s01" text="Limit merchant fencing funds" />
+    <string id="=kcdt_ff_s02" text="On by default. Merchants in the same town share one stolen-goods fund, independent of the native economy. You may sell more than the available funds: all selected goods are handed over, but payment is capped at the available balance; any unpaid amount is forfeited, creates no debt and will not be paid later. Even with no funds, you may hand over goods for zero payment, with no extra confirmation. Balances are saved; reloading does not refill them. Turning this off only restores unlimited merchant fencing without deleting saved balances or affecting the separate gang leader toggle. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_s03" text="Limit gang leader fencing funds" />
+    <string id="=kcdt_ff_s04" text="On by default. Each gang leader has personal stolen-goods funds, independent of the native economy. You may sell more than the available funds: all selected goods are handed over, but payment is capped at the available balance; any unpaid amount is forfeited, creates no debt and will not be paid later. Even with no funds, you may hand over goods for zero payment, with no extra confirmation. Balances are saved; reloading does not refill them. Turning this off only restores unlimited gang leader fencing without deleting saved balances or affecting the separate merchant toggle. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_s05" text="Merchant fencing funds cap (denars)" />
+    <string id="=kcdt_ff_s06" text="Maximum stolen-goods funds shared by all merchants in the same town, independent of the native economy. Default 20000; while the limit is enabled, 0 means no purchasing funds, not unlimited funds. For each full in-game day, recover the configured fraction of this cap, never above the cap. Balances are saved; reloading does not refill them. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_s07" text="Gang leader fencing funds cap (denars)" />
+    <string id="=kcdt_ff_s08" text="Maximum personal stolen-goods funds for each gang leader, independent of the native economy. Default 10000; while the limit is enabled, 0 means no purchasing funds, not unlimited funds. For each full in-game day, recover the configured fraction of this cap, never above the cap. Balances are saved; reloading does not refill them. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_s09" text="Merchant funds recovery per game day" />
+    <string id="=kcdt_ff_s10" text="For each full in-game day, the shared town merchant fund recovers this fraction of its cap, never above the cap. Default 0.25 = 25% of the cap per day (5000 denars at the default 20000 cap); 0 = no recovery, 1.00 = one full cap. Independent of the native economy; balances are saved, and reloading does not refill them. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_s11" text="Gang leader funds recovery per game day" />
+    <string id="=kcdt_ff_s12" text="For each full in-game day, each gang leader's personal fund recovers this fraction of its cap, never above the cap. Default 0.25 = 25% of the cap per day (2500 denars at the default 10000 cap); 0 = no recovery, 1.00 = one full cap. Independent of the native economy; balances are saved, and reloading does not refill them. Changes take effect the next time you open a fencing sale." />
+    <string id="=kcdt_ff_saved_cancelled" text="[Fencing] Saving cancelled the unfinished sale. Your goods are still in the stolen goods bag; reopen it to sell." />
+    <string id="=kcdt_ff_sold_short" text="The selected goods were worth {0} denars. You received {1}; the unpaid {2} is forfeited and will not be paid later." />
+    <string id="=kcdt_ff_title" text="Available: {0} denars | {1} | {2}% | {3} (move goods here to sell)" />
+    <string id="=kcdt_ffd47826" text="Nimble Fingers: gather time faster" />
+    <string id="=kcdt_ln_s01" text="Failed lock picking makes noise" />
+    <string id="=kcdt_ln_s02" text="On by default. Forcing the lock off the sweet spot creaks, and a snapping pick makes a loud noise. People nearby hear it even without seeing you and grow suspicious; if anyone's suspicion fills up, they come to confront you. Guards care most, then soldiers, nobles, merchants and commoners; gang members barely care. Roguery makes you quieter. Strength is under \" />
+    <string id="=kcdt_ln_s03" text="Lock picking noise strength" />
+    <string id="=kcdt_ln_s04" text="How much suspicion failed lock picking adds to people nearby. Default 1.00: a snapping pick adds about 0.3 suspicion to a commoner standing right next to you and about 0.7 to a guard at Roguery 0 (1.0 = caught); forcing a jammed lock adds about 0.1 per second within 8 m. Both shrink with distance, and Roguery 300 halves them." />
+    <string id="=kcdt_ln_s05" text="Lock turn speed per 100 Roguery" />
+    <string id="=kcdt_ln_s06" text="How much faster the lock turns for every 100 Roguery (counted up to 300). Default 0.25: level 0 ×1.00, 100 ×1.25, 200 ×1.50, 300 ×1.75. 0 = skill doesn't affect turn speed." />
+    <string id="=kcdt_lp_a01" text="You stepped away from the chest." />
+    <string id="=kcdt_lp_a02" text="Your last lockpick snapped." />
+    <string id="=kcdt_lp_a03" text="The lockpick snapped! {0} left." />
+    <string id="=kcdt_lp_b01" text="Buy 5 lockpicks from a shady tinker ({0} denars; you have {1})" />
+    <string id="=kcdt_lp_b02" text="You don't have enough money." />
+    <string id="=kcdt_lp_b03" text="You bought 5 lockpicks for {0} denars. You now have {1}." />
+    <string id="=kcdt_lp_c02" text="It's jamming! Let go before the pick snaps." />
+    <string id="=kcdt_lp_c03" text="Lockpicks: {0}" />
+    <string id="=kcdt_lp_c04" text="Move the circle until it turns gold, then turn the lock and keep the circle on the gold spot as it moves." />
+    <string id="=kcdt_lp_c05" text="{0} move the pick · hold {1} to turn the lock · {2} / Esc to stop" />
+    <string id="=kcdt_lp_c06" text="Stick" />
+    <string id="=kcdt_lp_c07" text="Mouse" />
+    <string id="=kcdt_lp_cause1" text="picking the lock of a chest" />
+    <string id="=kcdt_lp_cause2" text="picking the locks of chests" />
+    <string id="=kcdt_lp_cause3" text="picking the lock of a chest" />
+    <string id="=kcdt_lp_cause4" text="Someone saw you fiddling with the lock on that chest." />
+    <string id="=kcdt_lp_h01" text="Chest ({0}) · {1} to pick the lock · lockpicks: {2}" />
+    <string id="=kcdt_lp_h02" text="Empty chest (refills in {0})" />
+    <string id="=kcdt_lp_h03" text="Unlocked chest · {0} to open" />
+    <string id="=kcdt_lp_h04" text="You have no lockpicks. Buy some in a town's stolen goods bag menu." />
+    <string id="=kcdt_lp_k01" text="Pick a lock / open a chest" />
+    <string id="=kcdt_lp_k02" text="Press next to a chest in a town or castle to start picking its lock, or to open a chest you already unlocked. Default T, the same key as pickpocketing: while you crouch with a pickpocket target in reach, pickpocketing wins. Takes effect immediately. These bindings read raw keys and do not replace the game's own keys; if they overlap with game or other mod controls, or are bound twice here, several actions may fire at once." />
+    <string id="=kcdt_lp_k03" text="Press next to a chest in a town or castle to start picking its lock, or to open a chest you already unlocked. Default D-Pad Right, the same button as pickpocketing: while you crouch with a pickpocket target in reach, pickpocketing wins. Takes effect immediately. Key names use the Xbox layout." />
+    <string id="=kcdt_lp_l01" text="simple lock" />
+    <string id="=kcdt_lp_l02" text="ordinary lock" />
+    <string id="=kcdt_lp_l03" text="hard lock" />
+    <string id="=kcdt_lp_o01" text="[Thievery] The lock clicks open (Roguery XP +{0})." />
+    <string id="=kcdt_lp_o02" text="Nothing worth taking inside." />
+    <string id="=kcdt_lp_s01" text="Chests and lock picking" />
+    <string id="=kcdt_lp_s02" text="On by default. Chests in towns and castles can be picked open with lockpicks (bought in the stolen goods bag menu of a town). Scenes with too few usable chests get a few extra chests placed next to barrels and crates. Turn the pick with the mouse, left stick or the wheel keys; hold the confirm key to turn the lock, and let go when it jams or the pick snaps. Passersby can see you while you pick and loot; if they catch you, it goes to a confrontation like a failed pickpocket. Loot goes into the stolen goods bag (from this settlement, must be laundered); money goes straight to you. A looted chest refills after a few days." />
+    <string id="=kcdt_lp_s03" text="Lock picking alert multiplier" />
+    <string id="=kcdt_lp_s04" text="How much faster passersby grow suspicious while you pick a lock or rummage through a chest, compared with pickpocketing. Default 1.5." />
+    <string id="=kcdt_lp_s05" text="Lock sweet spot width" />
+    <string id="=kcdt_lp_s06" text="Scales the width of the hidden sweet spot on every lock. Default 1.00; above 1 is easier, below 1 is harder. Roguery widens it too (up to +10 degrees)." />
+    <string id="=kcdt_lp_s07" text="Minimum chests per scene" />
+    <string id="=kcdt_lp_s08" text="If a town or castle scene has fewer usable chests than this, extra chests are placed next to barrels and crates (always in the same spots for the same scene). Default 3; 0 = only use the chests the scene already has. Takes effect the next time you enter a scene." />
+    <string id="=kcdt_lp_s09" text="Chest refill time (days)" />
+    <string id="=kcdt_lp_s10" text="After you pick a chest open, it stays empty (or keeps whatever you left in it) for this many in-game days, then it is locked again with new contents. Default 3." />
+    <string id="=kcdt_lp_s11" text="Chest loot multiplier" />
+    <string id="=kcdt_lp_s12" text="Scales the value of what you find in chests. Default 1.00: a chest in a lord's hall holds about 30000 denars and one in the town center about 10000, at least 9 of the 12 slots filled and mostly equipment; other chests (castle grounds, taverns and other interiors) hold about 100-600, or 300-1500 behind a hard lock." />
+    <string id="=kcdt_lp_s13" text="Lockpick price (denars)" />
+    <string id="=kcdt_lp_s14" text="Price of one lockpick in the stolen goods bag menu of a town. Default 25." />
+    <string id="=kcdt_lp_s15" text="Crime Rating for lock picking" />
+    <string id="=kcdt_lp_s16" text="Base Crime Rating when you are caught picking a lock or looting a chest. Default 15; ×1.5 if a guard or soldier saw you, then × the Crime Rating multiplier. The fine is based on this value." />
+    <string id="=kcdt_lp_t01" text="Picking a {0}" />
+    <string id="=kcdt_lp_t02" text="[Thievery] From the chest you took: {0}. Goods went into the stolen goods bag (Roguery XP +{1})." />
+    <string id="=kcdt_lp_t03" text="You closed the lid without taking anything." />
+    <string id="=kcdt_lp_w01" text="Chest ({0})" />
+    <string id="=kcdt_lp_w02" text="Rummaging through the chest · no countdown" />
+    <string id="=kcdt_lp_w03" text="Close the chest and take what you selected" />
+    <string id="=kcdt_lp_w04" text="The lid is up. Anyone who looks this way will see you." />
+    <string id="=kcdt_lp_x01" text="[Thievery] The patrolling {0} caught you at the chest" />
+    <string id="=kcdt_lp_x02" text="[Thievery] {0} saw you at the chest and shouted" />
+    <string id="=kcdt_rp_ai1" text="This is the {0} time within {1} days they have been caught in this settlement. As punishment for repeat offending you confiscate everything they stole here in that time ({2} items; money is not taken)." />
+    <string id="=kcdt_rp_ai2" text=" The fine is doubled from {0} to {1} denars (×{2})." />
+    <string id="=kcdt_rp_ai3" text=" You will not accept a fine, haggling or excuses this time: they either go to jail or run." />
+    <string id="=kcdt_rp_ai3np" text=" You will not accept a fine, haggling or excuses this time: they either confess or run." />
+    <string id="=kcdt_rp_ai4" text="{0}\n{1} Make your line show you recognize them as a repeat offender and mention the confiscation; do not state any number." />
+    <string id="=kcdt_rp_conf" text="The {0} items you stole here are confiscated." />
+    <string id="=kcdt_rp_conf0" text="Nothing you stole here is left to confiscate." />
+    <string id="=kcdt_rp_fine" text=" The fine is raised to {0} denars (×{1})." />
+    <string id="=kcdt_rp_jail" text=" No fine, no haggling, no excuses this time: go to jail or run." />
+    <string id="=kcdt_rp_jail_np" text=" No fine, no haggling, no excuses this time: confess or run." />
+    <string id="=kcdt_rp_msg" text="[Confrontation] Caught in {0} for the {1} time within {2} days. {3}" />
+    <string id="=kcdt_rp_open" text=" (Your {0} time caught here within {1} days. {2})" />
+    <string id="=kcdt_rp_ord1" text="1st" />
+    <string id="=kcdt_rp_ord2" text="2nd" />
+    <string id="=kcdt_rp_ord3" text="3rd" />
+    <string id="=kcdt_rp_ordn" text="{0}th" />
+    <string id="=kcdt_rp_s01" text="Searching bodies alerts passersby faster" />
+    <string id="=kcdt_rp_s02" text="On by default. While you strip an unconscious person's clothing and gear, passersby grow suspicious faster (×3 by default, set under \" />
+    <string id="=kcdt_rp_s03" text="Body search alert multiplier" />
+    <string id="=kcdt_rp_s04" text="How much faster passersby grow suspicious while you search a body. Default 3.0; 1.0 = same as before. Suspicion still fades at the normal speed." />
+    <string id="=kcdt_rp_s05" text="Repeat catches: confiscate loot and raise the fine" />
+    <string id="=kcdt_rp_s06" text="On by default. Counts the confrontations you get into in each settlement. From the 2nd catch in the same settlement within 3 days (both adjustable under \" />
+    <string id="=kcdt_rp_s07" text="Repeat catches: jail or run" />
+    <string id="=kcdt_rp_s08" text="On by default. From the 3rd catch in the same settlement within 3 days (adjustable under \" />
+    <string id="=kcdt_rp_s09" text="Repeat catch window (days)" />
+    <string id="=kcdt_rp_s10" text="Catches in the same settlement count together if they happened within this many in-game days; older ones drop out. Loot confiscated on a repeat catch is what you stole from this settlement within the same window. Default 3." />
+    <string id="=kcdt_rp_s11" text="Catch number for confiscation + higher fine" />
+    <string id="=kcdt_rp_s12" text="From this catch on (counted within the window), loot from this settlement is confiscated and the fine is multiplied. Default 2." />
+    <string id="=kcdt_rp_s13" text="Repeat catch fine multiplier" />
+    <string id="=kcdt_rp_s14" text="The fine on a repeat catch is multiplied by this before any haggling. Default 2.0." />
+    <string id="=kcdt_rp_s15" text="Catch number for jail or run" />
+    <string id="=kcdt_rp_s16" text="From this catch on (counted within the window), loot from this settlement is confiscated and you can only go to jail or flee. Default 3." />
+    <string id="=kcdt_rp_story" text="was caught here for the {0} time in {1} days, " />
+    <string id="=kcdt_rp_story_c" text="had the {0} items stolen here confiscated, " />
+    <string id="=kcdt_rp_story_f" text="had the fine doubled to {0} denars, " />
+    <string id="=kcdt_rp_story_j" text="was refused any fine or excuses, " />
+    <string id="=kcdt_rp_story_t" text="then " />
+    <string id="=kcdt_st_m01" text="He's squirming..." />
+    <string id="=kcdt_st_m02" text="He's squirming... wait for it, press {0} only when the prompt changes" />
+    <string id="=kcdt_st_m03" text="you tightened your grip too soon; he twisted free and turned to see you" />
+    <string id="=kcdt_st_s01" text="Play knockout animations" />
+    <string id="=kcdt_st_s02" text="On by default. When a knockout succeeds you stay crouched and strike with your upper body: an uppercut when unarmed or holding a two-handed weapon, polearm or bow, a pommel strike with a one-handed weapon. The target falls forward face down as before. All vanilla animations. Turn off to go back to the old behavior (you don't move when the knockout lands)." />
+    <string id="=kcdt_st_s03" text="Irregular knockout struggles (feints)" />
+    <string id="=kcdt_st_s04" text="On by default. Requires \" />
+    <string id="=kcdt_stg01" text="STRUGGLE! Press {0} now ({1:0.0}s)" />
+    <string id="=kcdt_sx_s01" text="Thievery sound effects" />
+    <string id="=kcdt_sx_s02" text="On by default. Plays this mod's own sound effects: the pick going in, the click when you find the sweet spot, the lock turning, the strain and snap of a lockpick, the lock opening, cloth rustling while you pickpocket, coins and items as you take them, and a sting when you are caught. The sounds play through the game's interface volume." />
+    <string id="=kcdt_sx_s03" text="Lock the camera while picking a lock" />
+    <string id="=kcdt_sx_s04" text="On by default. While the lock picking screen is open the camera stays still, so moving the mouse only moves the pick. Turn off if another mod needs to move the camera." />
+    <string id="=kcdt_wn_m01" text="Things have cooled down: {0} stolen items you or your companions are wearing are now laundered." />
+    <string id="=kcdt_wn_m02" text="You or your companions are wearing {0} stolen items that aren't laundered yet. They still count as stolen goods: guards can find them in a search, and anything you take off goes back into this bag." />
+    <string id="=kcdt_wn_m03" text="worn, {0}" />
+    <string id="=kcdt_wn_m04" text="You put on {0} stolen items that aren't laundered yet. They still count as stolen goods until laundered: guards can find them in a search, and taking them off puts them back in the stolen goods bag." />
+    <string id="=kcdt_wn_m05" text="{0} stolen items that were taken off went back into the stolen goods bag (not laundered yet)." />
+    <string id="=kcdt_wn_m06" text="The merchant recognized the {0} stolen items you had been wearing. Word will reach the guards soon." />
+    <string id="=kcdt_wn_m07" text="He also eyes what you and your companions are wearing: {0} of those items are stolen and not yet laundered." />
+    <string id="=kcdt_wn_s01" text="Worn stolen goods still count as stolen" />
+    <string id="=kcdt_wn_s02" text="On by default. Unlaundered stolen equipment you or a clan member puts on straight from the stolen goods bag keeps its origin and theft date until its laundering time is up. Gate searches find it on you and your party companions; repeated catches strip unlaundered worn items stolen there; taking it off puts it back in the stolen goods bag; selling it to a merchant straight off your back can get it recognized. Your own copies of the same item are not affected. Turn off to go back to the old behavior (worn items are no longer tracked)." />
+    <string id="=kcdt_wnt_re01" text="[Wanted] The guards here remember you (Crime Rating {0}). Stay out of their sight." />
+    <string id="=kcdt_xxx" text="English" />
+  </strings>
+</base>

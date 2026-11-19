@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="KCD Thievery - Turkish Translation" />
+  <Id value="KCDThievery.TR" />
+  <Version value="v0.8.15.83" />
+  <DefaultModule value="false" />
+  <ModuleCategory value="Singleplayer" />
+  <ModuleType value="Community" />
+  <DependedModules>
+    <DependedModule Id="KCDThievery" />
+  </DependedModules>
+  <SubModules />
+  <Xmls />
+</Module>
